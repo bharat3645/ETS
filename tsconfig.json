@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./public/javascripts/tsdist/",
+    "noImplicitAny": true,
+    "module": "es6",
+    "jsx": "react",
+    "allowJs": true,
+    "moduleResolution": "node"
+  }
+}

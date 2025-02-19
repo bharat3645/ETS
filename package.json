@@ -1,0 +1,100 @@
+{
+  "name": "hackitup",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "webpack --mode development --config webpack.common.js --watch",
+    "lint": "vue-cli-service lint",
+    "build-tailwind": "npx @tailwindcss/cli -i ./tw/global.css -o ./public/stylesheets/tw.css --watch",
+    "eslint": "eslint ./",
+    "eslint-fix": "eslint ./ --fix",
+    "start": "nodemon ./bin/www",
+    "startdev": "node ./bin/www"
+  },
+  "dependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "@react-spring/web": "^9.7.5",
+    "@tsparticles/preset-stars": "^3.2.0",
+    "@tsparticles/shape-star": "^3.8.1",
+    "@typehaus/metropolis": "^12.0.0-next.7",
+    "animejs": "^3.2.2",
+    "babel-loader": "^9.2.1",
+    "babel-preset-solid": "^1.9.3",
+    "colord": "^2.9.3",
+    "cookie-parser": "~1.4.4",
+    "core-js": "^3.8.3",
+    "cors": "^2.8.5",
+    "css-loader": "^7.1.2",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "gsap": "^3.12.7",
+    "http-errors": "~1.6.3",
+    "lucide-react": "^0.475.0",
+    "morgan": "~1.9.1",
+    "motion": "^12.4.3",
+    "react": "^18.0.0",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.0.0",
+    "react-visibility-sensor": "^5.1.1",
+    "style-loader": "^4.0.0",
+    "tailwindcss": "^4.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@iconify/tailwind4": "^1.0.3",
+    "@tsparticles/engine": "^3.8.1",
+    "@tsparticles/slim": "^3.8.1",
+    "@tsparticles/vue3": "^3.0.1",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.13.4",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/compiler-sfc": "^3.5.13",
+    "clsx": "^2.1.1",
+    "connect-livereload": "^0.6.1",
+    "eslint": "^9.18.0",
+    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-vue": "^8.0.3",
+    "globals": "^15.14.0",
+    "livereload": "^0.9.3",
+    "nodemon": "^3.1.9",
+    "tailwind-merge": "^3.0.1",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.19.1",
+    "vue": "^3.2.13",
+    "vue-loader": "^17.4.2",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ],
+  "_id": "hackitup@0.0.0",
+  "readme": "ERROR: No README data found!"
+}

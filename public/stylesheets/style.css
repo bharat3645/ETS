@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--body);
+  user-select: none;
+}
+:root{
+  --body: rgb(9, 8, 20);
+  --bg-h: #5B51F1; 
+  --bg-c: #F3F3F3;
+}
+.kk {
+  fill: #b0ff8c;
+}
+.cursor{
+  position: absolute;
+  width: 20px;
+  z-index: 1;
+  height: 20px;
+  background-color: var(--c);
+  border-radius: 100%;
+  transition: all;
+}
+
+#root{
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+#root > * {
+  /* position: relative; */
+}
+
+::-webkit-scrollbar{
+  width: 0;
+}

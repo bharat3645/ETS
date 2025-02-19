@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Blastge';
+    src: url('Blastge.eot');
+    src: local('Blastge'),
+        url('Blastge.eot?#iefix') format('embedded-opentype'),
+        url('Blastge.woff2') format('woff2'),
+        url('Blastge.woff') format('woff'),
+        url('Blastge.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

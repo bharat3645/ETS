@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+    <link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
+
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <script src="javascripts/global.js"></script>
+    <link rel="stylesheet" href="stylesheets/tw.css">
+    <link rel="stylesheet" href="stylesheets/style.css">
+    <link rel="stylesheet" href="stylesheets/fonts.css">
+</head>
+<body>
+    <div id="cursor"></div>
+    <div id="root">
+        <div class="l1 flex flex-col w-full h-full">
+            <div id="particle" class="w-[100vw] h-[100vh] absolute z-[-1]"></div>
+            <div class="quote flex  flex-col text-white self-center mt-auto mb-auto text-8xl font-[700] font-[Metropolis]">
+                <div class="text-8xl font-[700] ">
+                    Innovation Starts Here
+                </div>
+                <div class="text-xl font-[200] self-center opacity-70">
+                    Unlocking limitless possibilities through technology, creativity, and design.
+                </div>
+            </div>
+        </div>
+        <div class="l1 flex  w-full h-full pb-3 bg-(--body)">
+            <div class="w-[90%] h-fit flex relative self-end ml-auto">
+                <div class="b1 w-[50%] flex flex-col space-y-10">
+                    <div class="tt text-[#5B51F1] text-6xl font-extrabold font-[DM_Sans]">About</div>
+                    <div class="desc text-white font-extralight text-2xl">Our project is an innovative platform designed specifically for college events. It allows event organizers to post details about their events, manage registrations, and sell tickets seamlessly. Students can easily browse upcoming events, book tickets, and stay updated on campus activities. With a user-friendly interface and secure transactions, our platform enhances event participation and fosters a more connected college community.</div>
+                    <div id="explore"></div>
+                </div>            
+                <div class="w-[50%] flex  justify-center">
+                    <div id="about" class="w-[80%] flex h-full"></div>
+                </div>
+            </div>
+        </div>
+        <div class="l1 flex w-full h-full flex-col space-y-10">
+            <div class="w-[95%] h-[20%] ml-auto text-white text-5xl flex items-end"><span>Upcoming Events</span></div>
+            <div class="flex w-full h-full bg-(--bg-c) justify-end">
+                <div class="w-[95%] h-full flex  items-center" id="cards"></div>
+            </div>
+        </div>
+    </div>
+    <script src="javascripts/bundles/landing/landing.bundle.js"></script>
+    <script src="javascripts/bundles/vuedist/vuedist.bundle.js"></script>
+
+</body>
+</html>
