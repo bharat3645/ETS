@@ -10,6 +10,9 @@ router.get('/home', function(req, res, next) {
 router.get("/signup", function(req,res,next) {
   res.render("auth/signup")
 })
+router.get("/login", function(req,res,next) {
+  res.render("auth/login")
+})
 router.get("/tos", function(req,res,next) {
   res.render("policy")
 })

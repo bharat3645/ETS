@@ -49,6 +49,9 @@ module.exports = {
       {
         test: /\.(js|jsx)$/,
         exclude: /node_modules/,
+        resolve: {
+          fullySpecified: false,
+        },
         use: {
           loader: "babel-loader",
           options: {
@@ -69,6 +72,16 @@ module.exports = {
             loader: "ts-loader",
           },
         ],
+      },
+      {
+        test: /\.m?js/,
+        type: "javascript/auto",
+      },
+      {
+        test: /\.m?js/,
+        resolve: {
+          fullySpecified: false,
+        },
       },
     ],
   },

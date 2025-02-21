@@ -7,7 +7,7 @@ var livereload = require("livereload");
 var connectLiveReload = require("connect-livereload");
 var indexRouter = require('./routes/index');
 const apiRouter = require("./routes/api/api")
-
+require('dotenv').config()
 const liveReloadServer = livereload.createServer();
 liveReloadServer.server.once("connection", () => {
   setTimeout(() => {
