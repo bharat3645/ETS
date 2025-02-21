@@ -1,0 +1,8 @@
+#search{
+    outline: none;
+}
+
+#search:focus{
+    outline: none;
+}
+

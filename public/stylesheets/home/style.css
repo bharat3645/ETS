@@ -1,5 +1,29 @@
 body {
     margin: 0;
     padding: 0;
+    user-select: none;
+}
+:root{
+    --body: rgb(11, 10, 26);
+    --bg-h: #5B51F1; 
+    --bg-c: #F3F3F3;
+    --bg-d: #f5f7f7;
+    --ongoing: #ED8080;
+    --upcoming: #f3c460;
+    --completed: #80ED99;
+    --bg-e: rgb(31,29,53);
+    --bg-f: rgb(31,29,53);
+  }
+.upcoming {
+    color: var(--upcoming);
+}
+.ongoing{
+    color: var(--ongoing);
+}
+.completed{
+    color: var(--completed);
 }
 
+::-webkit-scrollbar{
+    width: 0;
+}

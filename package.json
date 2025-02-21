@@ -21,6 +21,7 @@
     "@tsparticles/shape-star": "^3.8.1",
     "@typehaus/metropolis": "^12.0.0-next.7",
     "animejs": "^3.2.2",
+    "axios": "^1.7.9",
     "babel-loader": "^9.2.1",
     "babel-preset-solid": "^1.9.3",
     "colord": "^2.9.3",
@@ -40,8 +41,11 @@
     "react-countup": "^6.5.3",
     "react-dom": "^18.0.0",
     "react-visibility-sensor": "^5.1.1",
+    "react-window": "^1.8.11",
     "style-loader": "^4.0.0",
-    "tailwindcss": "^4.0.6"
+    "tailwindcss": "^4.0.6",
+    "uuid": "^11.0.5",
+    "uuid4": "^2.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

@@ -4,12 +4,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+    <script src="javascripts/global.js"></script>
+    <link rel="stylesheet" href="stylesheets/fonts.css">
     <link rel="stylesheet" href="/stylesheets/tw.css">
     <link rel="stylesheet" href="stylesheets/home/style.css">
 </head>
 <body>
-    <div id="root" class="w-screen h-screen grid grid-cols-[20%_80%]">
-        
+    <div id="root" class="w-screen h-screen">
+        <div class="w-full flex flex-col">
+            <div class="w-full h-fit flex items-center flex-col justify-center space-y-4" id="tb">
+                <div class="dd flex flex-col-reverse sm:flex-row w-full h-fit bg-(--body) text-white">
+                    <div class="usert m-8 ml-20 w-fit h-full flex text-[120%] capitalize space-x-7 font-[700]">
+                        <div class="">About</div>
+                        <div class="">tickets</div>
+                        <div class="">profile</div>
+                    </div>
+                    <div class="ml-auto sm:mr-20 mr-auto flex sm:w-fit w-full p-8  space-x-4">
+                        <div class="flex flex-col sm:grid  w-full">
+                            <div  class="sm:flex sm:flex-col grid grid-cols-[50%_50%] text-xl w-full">
+                                <div id="branch">AI&DS</div>
+                                <div id="stuname" class="text-[90%] ml-auto sm:ml-0 font-light">Anmol</div>
+                            </div>
+                            <div  class="flex flex-col opacity-60 font-light space-x-2">
+                                <div id="enroll" class="text-[80%]">03215611924</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              
+            </div>
+
+        </div>
+        <div class="w-full h-full grid" id="mc">
+        </div>
     </div>
+    <script src="javascripts/bundles/globals/globals.bundle.js"></script>
+    <script src="javascripts/bundles/home/home.bundle.js"></script>
+
 </body>
 </html>

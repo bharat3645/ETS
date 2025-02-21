@@ -1,6 +1,5 @@
 import React from "react";
 import CountUp from 'react-countup';
-import { twMerge } from 'tailwind-merge'
 import VisibilitySensor from 'react-visibility-sensor';
 
 const Polygon_7 = (props) => (

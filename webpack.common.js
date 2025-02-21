@@ -1,11 +1,12 @@
 const path = require("path");
 const fs = require("fs");
 const { VueLoaderPlugin } = require("vue-loader");
-var k;
+var k,jj;
 module.exports = {
   devtool: "inline-source-map",
   entry:
-    ((k = (function (dir) {
+    (
+      (k = (function (dir) {
       var files_ = {},
         name1;
       var files = fs.readdirSync(dir);
@@ -19,17 +20,17 @@ module.exports = {
       return files_;
     })(path.resolve(__dirname, "ui", "pages"))),
     (
-      (function(){
-        k['vuedist'] = []
-        var p = path.resolve(__dirname, "vue_du/src")
+      jj = function(pk,pat){
+        k[pk] = []
+        var p = path.resolve(__dirname, pat)
         var files = fs.readdirSync(p)
         files.forEach((v)=>{
          if(v.endsWith(".js")){
-           k['vuedist'] = k['vuedist'].concat(path.resolve(p,v))
+           k[pk] = k[pk].concat(path.resolve(p,v))
          } 
         })  
-      })()
-  ),
+      }
+  ),jj("vuedist", "vue_du/src"),jj("globals", "global_helpers"),
     k),
   devServer: {
     hot: true,
