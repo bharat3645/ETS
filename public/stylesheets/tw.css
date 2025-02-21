@@ -692,6 +692,9 @@
   .m-2 {
     margin: calc(var(--spacing) * 2);
   }
+  .m-5 {
+    margin: calc(var(--spacing) * 5);
+  }
   .m-8 {
     margin: calc(var(--spacing) * 8);
   }
