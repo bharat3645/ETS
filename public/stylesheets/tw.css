@@ -2622,4 +2622,7 @@
   inherits: false;
 }
 @property --tw-content {
-  synt
+  syntax: "*";
+  initial-value: "";
+  inherits: false;
+}
