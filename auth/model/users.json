@@ -10,5 +10,11 @@
     "password": "$2b$10$vBaBwIztYKPbYHffyHMRQuj.Ozir02soRjFvQPXdmz51QXPhQ503a",
     "name": "sender.mail",
     "phone": "8882043374"
+  },
+  "03215611926": {
+    "id": "03215611926",
+    "password": "$2b$10$PgHNOdLoVG2dM5034aer9ur774jMKCzR3UCaklLEYHM8Szso3s/3a",
+    "name": "mail",
+    "phone": "8882043374"
   }
 }

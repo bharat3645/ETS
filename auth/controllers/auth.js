@@ -5,8 +5,8 @@ const UserModel = require("../model/user");
 
 const signup = async (req, res) => {
     try {
-        const { name, id, password,phone } = req.body;
-        const user = new UserModel(id,null,name,phone);
+        const { name, id, password,phone, branch} = req.body;
+        const user = new UserModel(id,null,name,phone,branch);
         console.log(user.find())
         if (user.find()) {
             return res.status(409)

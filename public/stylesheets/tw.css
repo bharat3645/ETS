@@ -2528,4 +2528,7 @@
   inherits: false;
 }
 @property --tw-content {
-  synta
+  syntax: "*";
+  initial-value: "";
+  inherits: false;
+}

@@ -38,8 +38,10 @@ const SignupForm = () => {
        ).then(
            (res)=>{
                  console.log(res.data)
+
                localStorage.setItem("token", res.data.jwtToken)
-           }
+               location.href = "/home" 
+              }
        ).catch(
            (reason)=> {
                console.log(reason.response)

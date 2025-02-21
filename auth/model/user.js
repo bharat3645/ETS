@@ -10,11 +10,12 @@ function create_dict(){
 const p = path.join(__dirname, "users.json")
 
 class UserModel{
-    constructor(id,password,name,phone){
+    constructor(id,password,name,phone,branch){
         this.id = id
         this.password = password
         this.phone = phone
         this.name = name
+        this.branch = branch
     }
     signUp(){
         var d  = this.read()
@@ -22,7 +23,8 @@ class UserModel{
             id: this.id,
             password: this.password,
             name: this.name,
-            phone:this.phone
+            phone:this.phone,
+            branch: this.branch
         }]))
         fs.writeFileSync(p, JSON.stringify(d), "utf8");
     }

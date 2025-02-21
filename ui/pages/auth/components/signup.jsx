@@ -11,7 +11,8 @@ function SignUp(props) {
     id: "",
     phone: "",
     password: "",
-    name: ""
+    name: "",
+    branch: "",
   })  
   const [error, setError] = useState("")
   const notify = (msg,type)=>{
@@ -95,6 +96,13 @@ function SignUp(props) {
           type="text"
           name="id"
           placeholder="Enrollment Id"
+          onChange={handleChange}
+        />
+        <input
+          className="w-[341px] h-[57px] pl-6 rounded-md bg-[#F0EFFF] placeholder:text-[#A7A3FF]"
+          type="text"
+          name="branch"
+          placeholder="Branch"
           onChange={handleChange}
         />
         <input
