@@ -1,4 +1,4 @@
-const jwt = require('jsonwebtoken');
+const {verifyToken} = require('../tokens');
 
 const ensureAuthenticated = (req, res, next) => {
     const auth = req.headers['authorization'];
@@ -7,7 +7,7 @@ const ensureAuthenticated = (req, res, next) => {
         return res.status(400).json({"message":"token not found"})
     }
     try {
-        const decoded = jwt.verify(auth, process.env.JWT_SECRET);
+        const decoded = verifyToken(auth, process.env.JWT_SECRET);
         decoded.phone = decoded.phone.slice(0,4) + "XXX"
         req.user = decoded;
         next();

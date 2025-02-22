@@ -1,0 +1,21 @@
+{
+  "2": { "1": { "id": 1, "name": 2, "time": 3, "date": 4, "adr": 5 } },
+  "Competition 19": {
+    "sender.mail": {
+      "id": "sender.mail",
+      "name": "Competition 19",
+      "time": "7, 25 pm",
+      "date": "2024-12-02",
+      "adr": "College auditorium"
+    }
+  },
+  "Networking Event 14": {
+    "sender.mail": {
+      "id": "sender.mail",
+      "name": "Networking Event 14",
+      "time": "10, 11 pm",
+      "date": "2024-09-11",
+      "adr": "College auditorium"
+    }
+  }
+}

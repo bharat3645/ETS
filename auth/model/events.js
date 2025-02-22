@@ -7,26 +7,26 @@ function create_dict(){
     return hmm
 }
 
-const p = path.join(__dirname, "users.json")
+const p = path.join(__dirname, "events.json")
 
-class UserModel{
-    constructor(id,password,name,phone,branch){
+class Event{
+    constructor(id,name,time,date,adr,){
         this.id = id
-        this.password = password
-        this.phone = phone
         this.name = name
-        this.branch = branch
+        this.time = time
+        this.date = date
+        this.adr = adr
         this.payload = {
             id: this.id,
-            password: this.password,
             name: this.name,
-            phone:this.phone,
-            branch: this.branch
+            time: this.time,
+            date:this.date,
+            adr: this.adr
         }
     }
-    signUp(){
-        var d  = this.read()
-        d = Object.assign(d, create_dict([this.id, this.payload]))
+    book(){
+        var d  = this.read(),j
+        d[this.name] = (j = (d[this.name] ?? {}),create_dict([this.id, this.payload]))
         fs.writeFileSync(p, JSON.stringify(d), "utf8");
     }
     read(){
@@ -34,11 +34,14 @@ class UserModel{
         return JSON.parse(d)
     }
     find(){
-        var d  = this.read(),k,k2,k3
-        return d[this.id]
+        var d  = this.read()
+        try{
+            return d[this.name][this.id]
+        }
+        catch{
+            return false
+        }
     }
 
 }
-
-
-module.exports = UserModel
+module.exports = Event

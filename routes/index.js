@@ -7,6 +7,9 @@ router.get('/', function(req, res, next) {
 router.get('/home', function(req, res, next) {
   res.render('home/index');
 });
+router.get('/ticket', function(req, res, next) {
+  res.render('ticket');
+});
 router.get("/signup", function(req,res,next) {
   res.render("auth/signup")
 })

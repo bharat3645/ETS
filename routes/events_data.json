@@ -1,0 +1,2972 @@
+{
+  "Competition 19": {
+    "event_title": "Competition 19",
+    "eventRegistrations": 79,
+    "date": "2024-12-02",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "7, 25 pm"
+  },
+  "Networking Event 14": {
+    "event_title": "Networking Event 14",
+    "eventRegistrations": 98,
+    "date": "2024-09-11",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "10, 11 pm"
+  },
+  "Tech Talk 30": {
+    "event_title": "Tech Talk 30",
+    "eventRegistrations": 417,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "4, 26 am"
+  },
+  "Hackathon 22": {
+    "event_title": "Hackathon 22",
+    "eventRegistrations": 451,
+    "date": "2024-05-15",
+    "status": "Completed",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "4, 5 pm"
+  },
+  "Competition 38": {
+    "event_title": "Competition 38",
+    "eventRegistrations": 491,
+    "date": "2024-06-02",
+    "status": "Completed",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "6, 24 am"
+  },
+  "Competition 16": {
+    "event_title": "Competition 16",
+    "eventRegistrations": 208,
+    "date": "2025-11-13",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "3, 32 pm"
+  },
+  "Seminar 49": {
+    "event_title": "Seminar 49",
+    "eventRegistrations": 400,
+    "date": "2025-11-25",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "5, 23 pm"
+  },
+  "Meetup 26": {
+    "event_title": "Meetup 26",
+    "eventRegistrations": 449,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "10, 12 am"
+  },
+  "Competition 11": {
+    "event_title": "Competition 11",
+    "eventRegistrations": 363,
+    "date": "2024-08-26",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "8, 7 am"
+  },
+  "Workshop 34": {
+    "event_title": "Workshop 34",
+    "eventRegistrations": 355,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "5, 55 am"
+  },
+  "Hackathon 23": {
+    "event_title": "Hackathon 23",
+    "eventRegistrations": 499,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "9, 49 pm"
+  },
+  "Tech Talk 3": {
+    "event_title": "Tech Talk 3",
+    "eventRegistrations": 92,
+    "date": "2024-11-04",
+    "status": "Completed",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "11, 38 pm"
+  },
+  "Competition 27": {
+    "event_title": "Competition 27",
+    "eventRegistrations": 148,
+    "date": "2025-09-19",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "10, 56 am"
+  },
+  "Networking Event 1": {
+    "event_title": "Networking Event 1",
+    "eventRegistrations": 249,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "11, 8 pm"
+  },
+  "Hackathon 49": {
+    "event_title": "Hackathon 49",
+    "eventRegistrations": 125,
+    "date": "2025-02-10",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "2, 45 am"
+  },
+  "Seminar 5": {
+    "event_title": "Seminar 5",
+    "eventRegistrations": 234,
+    "date": "2024-09-04",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "9, 24 pm"
+  },
+  "Tech Talk 23": {
+    "event_title": "Tech Talk 23",
+    "eventRegistrations": 285,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "3, 54 pm"
+  },
+  "Workshop 31": {
+    "event_title": "Workshop 31",
+    "eventRegistrations": 378,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "7, 36 pm"
+  },
+  "Seminar 3": {
+    "event_title": "Seminar 3",
+    "eventRegistrations": 154,
+    "date": "2024-06-21",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "12, 23 pm"
+  },
+  "Networking Event 6": {
+    "event_title": "Networking Event 6",
+    "eventRegistrations": 373,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "9, 51 pm"
+  },
+  "Networking Event 28": {
+    "event_title": "Networking Event 28",
+    "eventRegistrations": 182,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "4, 4 pm"
+  },
+  "Tech Talk 44": {
+    "event_title": "Tech Talk 44",
+    "eventRegistrations": 101,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "7, 51 am"
+  },
+  "Seminar 18": {
+    "event_title": "Seminar 18",
+    "eventRegistrations": 144,
+    "date": "2024-12-14",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "4, 48 am"
+  },
+  "Competition 18": {
+    "event_title": "Competition 18",
+    "eventRegistrations": 436,
+    "date": "2026-01-27",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "4, 7 pm"
+  },
+  "Meetup 29": {
+    "event_title": "Meetup 29",
+    "eventRegistrations": 379,
+    "date": "2025-08-09",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "4, 22 am"
+  },
+  "Networking Event 32": {
+    "event_title": "Networking Event 32",
+    "eventRegistrations": 362,
+    "date": "2024-07-14",
+    "status": "Completed",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "5, 21 am"
+  },
+  "Networking Event 25": {
+    "event_title": "Networking Event 25",
+    "eventRegistrations": 215,
+    "date": "2024-09-19",
+    "status": "Completed",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "12, 22 am"
+  },
+  "Seminar 39": {
+    "event_title": "Seminar 39",
+    "eventRegistrations": 186,
+    "date": "2024-09-02",
+    "status": "Completed",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "2, 3 am"
+  },
+  "Tech Talk 32": {
+    "event_title": "Tech Talk 32",
+    "eventRegistrations": 151,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "9, 18 pm"
+  },
+  "Tech Talk 43": {
+    "event_title": "Tech Talk 43",
+    "eventRegistrations": 215,
+    "date": "2025-11-30",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "6, 3 am"
+  },
+  "Workshop 35": {
+    "event_title": "Workshop 35",
+    "eventRegistrations": 313,
+    "date": "2025-08-19",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "12, 17 am"
+  },
+  "Meetup 4": {
+    "event_title": "Meetup 4",
+    "eventRegistrations": 157,
+    "date": "2025-01-24",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "2, 20 pm"
+  },
+  "Meetup 11": {
+    "event_title": "Meetup 11",
+    "eventRegistrations": 478,
+    "date": "2025-10-06",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "3, 27 pm"
+  },
+  "Tech Talk 14": {
+    "event_title": "Tech Talk 14",
+    "eventRegistrations": 366,
+    "date": "2026-02-18",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "3, 19 am"
+  },
+  "Hackathon 45": {
+    "event_title": "Hackathon 45",
+    "eventRegistrations": 232,
+    "date": "2024-08-05",
+    "status": "Completed",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "4, 26 pm"
+  },
+  "Workshop 42": {
+    "event_title": "Workshop 42",
+    "eventRegistrations": 172,
+    "date": "2025-10-17",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "12, 10 pm"
+  },
+  "Seminar 14": {
+    "event_title": "Seminar 14",
+    "eventRegistrations": 487,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "12, 35 pm"
+  },
+  "Tech Talk 21": {
+    "event_title": "Tech Talk 21",
+    "eventRegistrations": 266,
+    "date": "2025-07-19",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "12, 60 am"
+  },
+  "Meetup 39": {
+    "event_title": "Meetup 39",
+    "eventRegistrations": 297,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "8, 9 pm"
+  },
+  "Tech Talk 29": {
+    "event_title": "Tech Talk 29",
+    "eventRegistrations": 183,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "4, 39 pm"
+  },
+  "Networking Event 9": {
+    "event_title": "Networking Event 9",
+    "eventRegistrations": 223,
+    "date": "2024-03-02",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "6, 23 pm"
+  },
+  "Hackathon 17": {
+    "event_title": "Hackathon 17",
+    "eventRegistrations": 486,
+    "date": "2025-07-27",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "1, 4 am"
+  },
+  "Seminar 1": {
+    "event_title": "Seminar 1",
+    "eventRegistrations": 154,
+    "date": "2026-01-06",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "6, 15 pm"
+  },
+  "Workshop 9": {
+    "event_title": "Workshop 9",
+    "eventRegistrations": 481,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "5, 22 pm"
+  },
+  "Meetup 27": {
+    "event_title": "Meetup 27",
+    "eventRegistrations": 170,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "4, 42 am"
+  },
+  "Tech Talk 49": {
+    "event_title": "Tech Talk 49",
+    "eventRegistrations": 130,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "1, 55 am"
+  },
+  "Hackathon 27": {
+    "event_title": "Hackathon 27",
+    "eventRegistrations": 377,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "2, 27 pm"
+  },
+  "Hackathon 11": {
+    "event_title": "Hackathon 11",
+    "eventRegistrations": 438,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "5, 47 am"
+  },
+  "Networking Event 12": {
+    "event_title": "Networking Event 12",
+    "eventRegistrations": 305,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "6, 4 am"
+  },
+  "Networking Event 34": {
+    "event_title": "Networking Event 34",
+    "eventRegistrations": 479,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "12, 13 am"
+  },
+  "Hackathon 3": {
+    "event_title": "Hackathon 3",
+    "eventRegistrations": 355,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "8, 10 am"
+  },
+  "Tech Talk 40": {
+    "event_title": "Tech Talk 40",
+    "eventRegistrations": 256,
+    "date": "2024-07-29",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "9, 25 pm"
+  },
+  "Hackathon 5": {
+    "event_title": "Hackathon 5",
+    "eventRegistrations": 216,
+    "date": "2025-01-10",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "3, 2 pm"
+  },
+  "Hackathon 43": {
+    "event_title": "Hackathon 43",
+    "eventRegistrations": 127,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "10, 32 am"
+  },
+  "Tech Talk 37": {
+    "event_title": "Tech Talk 37",
+    "eventRegistrations": 204,
+    "date": "2025-12-25",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "7, 50 pm"
+  },
+  "Hackathon 6": {
+    "event_title": "Hackathon 6",
+    "eventRegistrations": 130,
+    "date": "2024-02-27",
+    "status": "Completed",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "9, 13 pm"
+  },
+  "Competition 14": {
+    "event_title": "Competition 14",
+    "eventRegistrations": 246,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "12, 49 am"
+  },
+  "Networking Event 8": {
+    "event_title": "Networking Event 8",
+    "eventRegistrations": 437,
+    "date": "2025-03-24",
+    "status": "Upcoming",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "6, 48 pm"
+  },
+  "Competition 39": {
+    "event_title": "Competition 39",
+    "eventRegistrations": 500,
+    "date": "2025-04-21",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "8, 50 pm"
+  },
+  "Workshop 21": {
+    "event_title": "Workshop 21",
+    "eventRegistrations": 254,
+    "date": "2025-01-18",
+    "status": "Completed",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "5, 9 pm"
+  },
+  "Tech Talk 15": {
+    "event_title": "Tech Talk 15",
+    "eventRegistrations": 278,
+    "date": "2025-12-03",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "11, 18 pm"
+  },
+  "Competition 30": {
+    "event_title": "Competition 30",
+    "eventRegistrations": 143,
+    "date": "2024-11-22",
+    "status": "Completed",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "6, 24 pm"
+  },
+  "Networking Event 50": {
+    "event_title": "Networking Event 50",
+    "eventRegistrations": 297,
+    "date": "2025-11-17",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "8, 15 pm"
+  },
+  "Tech Talk 5": {
+    "event_title": "Tech Talk 5",
+    "eventRegistrations": 242,
+    "date": "2024-07-03",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "11, 49 pm"
+  },
+  "Tech Talk 33": {
+    "event_title": "Tech Talk 33",
+    "eventRegistrations": 412,
+    "date": "2024-12-12",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "5, 27 pm"
+  },
+  "Networking Event 21": {
+    "event_title": "Networking Event 21",
+    "eventRegistrations": 451,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "4, 45 am"
+  },
+  "Meetup 12": {
+    "event_title": "Meetup 12",
+    "eventRegistrations": 115,
+    "date": "2024-12-01",
+    "status": "Completed",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "1, 28 am"
+  },
+  "Workshop 47": {
+    "event_title": "Workshop 47",
+    "eventRegistrations": 467,
+    "date": "2025-05-25",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "6, 49 pm"
+  },
+  "Hackathon 39": {
+    "event_title": "Hackathon 39",
+    "eventRegistrations": 321,
+    "date": "2025-05-13",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "10, 38 pm"
+  },
+  "Competition 3": {
+    "event_title": "Competition 3",
+    "eventRegistrations": 436,
+    "date": "2024-08-26",
+    "status": "Completed",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "8, 30 pm"
+  },
+  "Seminar 48": {
+    "event_title": "Seminar 48",
+    "eventRegistrations": 268,
+    "date": "2024-06-25",
+    "status": "Completed",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "12, 55 am"
+  },
+  "Tech Talk 18": {
+    "event_title": "Tech Talk 18",
+    "eventRegistrations": 358,
+    "date": "2025-07-25",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "12, 7 pm"
+  },
+  "Networking Event 18": {
+    "event_title": "Networking Event 18",
+    "eventRegistrations": 149,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "9, 57 am"
+  },
+  "Tech Talk 35": {
+    "event_title": "Tech Talk 35",
+    "eventRegistrations": 336,
+    "date": "2024-11-03",
+    "status": "Completed",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "8, 55 pm"
+  },
+  "Seminar 46": {
+    "event_title": "Seminar 46",
+    "eventRegistrations": 414,
+    "date": "2024-12-14",
+    "status": "Completed",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "3, 25 am"
+  },
+  "Workshop 40": {
+    "event_title": "Workshop 40",
+    "eventRegistrations": 170,
+    "date": "2025-09-26",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "5, 7 am"
+  },
+  "Workshop 5": {
+    "event_title": "Workshop 5",
+    "eventRegistrations": 319,
+    "date": "2025-10-08",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "3, 51 am"
+  },
+  "Networking Event 5": {
+    "event_title": "Networking Event 5",
+    "eventRegistrations": 236,
+    "date": "2024-04-08",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "12, 18 pm"
+  },
+  "Competition 35": {
+    "event_title": "Competition 35",
+    "eventRegistrations": 474,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "3, 22 am"
+  },
+  "Meetup 32": {
+    "event_title": "Meetup 32",
+    "eventRegistrations": 250,
+    "date": "2024-12-25",
+    "status": "Completed",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "2, 6 am"
+  },
+  "Workshop 10": {
+    "event_title": "Workshop 10",
+    "eventRegistrations": 100,
+    "date": "2024-05-26",
+    "status": "Completed",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "8, 25 am"
+  },
+  "Competition 4": {
+    "event_title": "Competition 4",
+    "eventRegistrations": 441,
+    "date": "2025-12-31",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "8, 14 pm"
+  },
+  "Competition 33": {
+    "event_title": "Competition 33",
+    "eventRegistrations": 355,
+    "date": "2024-06-23",
+    "status": "Completed",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "7, 10 am"
+  },
+  "Meetup 41": {
+    "event_title": "Meetup 41",
+    "eventRegistrations": 480,
+    "date": "2024-03-31",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "11, 43 am"
+  },
+  "Competition 43": {
+    "event_title": "Competition 43",
+    "eventRegistrations": 319,
+    "date": "2025-05-03",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "5, 34 am"
+  },
+  "Networking Event 40": {
+    "event_title": "Networking Event 40",
+    "eventRegistrations": 142,
+    "date": "2026-02-12",
+    "status": "Upcoming",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "10, 3 pm"
+  },
+  "Tech Talk 41": {
+    "event_title": "Tech Talk 41",
+    "eventRegistrations": 262,
+    "date": "2024-04-23",
+    "status": "Completed",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "7, 55 am"
+  },
+  "Workshop 15": {
+    "event_title": "Workshop 15",
+    "eventRegistrations": 51,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "11, 0 pm"
+  },
+  "Hackathon 35": {
+    "event_title": "Hackathon 35",
+    "eventRegistrations": 336,
+    "date": "2025-08-05",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "7, 59 pm"
+  },
+  "Tech Talk 7": {
+    "event_title": "Tech Talk 7",
+    "eventRegistrations": 275,
+    "date": "2025-12-23",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "9, 55 am"
+  },
+  "Meetup 21": {
+    "event_title": "Meetup 21",
+    "eventRegistrations": 88,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "1, 16 pm"
+  },
+  "Meetup 10": {
+    "event_title": "Meetup 10",
+    "eventRegistrations": 152,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "3, 28 am"
+  },
+  "Meetup 35": {
+    "event_title": "Meetup 35",
+    "eventRegistrations": 96,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "2, 54 pm"
+  },
+  "Networking Event 10": {
+    "event_title": "Networking Event 10",
+    "eventRegistrations": 70,
+    "date": "2025-07-23",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "4, 14 pm"
+  },
+  "Hackathon 7": {
+    "event_title": "Hackathon 7",
+    "eventRegistrations": 446,
+    "date": "2024-03-02",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "3, 13 am"
+  },
+  "Workshop 11": {
+    "event_title": "Workshop 11",
+    "eventRegistrations": 232,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "1, 53 pm"
+  },
+  "Competition 20": {
+    "event_title": "Competition 20",
+    "eventRegistrations": 295,
+    "date": "2025-08-20",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "9, 53 pm"
+  },
+  "Meetup 9": {
+    "event_title": "Meetup 9",
+    "eventRegistrations": 272,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "11, 9 pm"
+  },
+  "Workshop 43": {
+    "event_title": "Workshop 43",
+    "eventRegistrations": 128,
+    "date": "2025-05-13",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "7, 43 pm"
+  },
+  "Hackathon 41": {
+    "event_title": "Hackathon 41",
+    "eventRegistrations": 250,
+    "date": "2025-10-22",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "1, 13 pm"
+  },
+  "Competition 28": {
+    "event_title": "Competition 28",
+    "eventRegistrations": 330,
+    "date": "2024-11-04",
+    "status": "Completed",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "11, 52 pm"
+  },
+  "Competition 21": {
+    "event_title": "Competition 21",
+    "eventRegistrations": 404,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "8, 23 pm"
+  },
+  "Workshop 13": {
+    "event_title": "Workshop 13",
+    "eventRegistrations": 196,
+    "date": "2025-03-17",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "8, 31 pm"
+  },
+  "Competition 44": {
+    "event_title": "Competition 44",
+    "eventRegistrations": 116,
+    "date": "2024-04-11",
+    "status": "Completed",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "9, 59 pm"
+  },
+  "Networking Event 38": {
+    "event_title": "Networking Event 38",
+    "eventRegistrations": 345,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "2, 3 am"
+  },
+  "Meetup 50": {
+    "event_title": "Meetup 50",
+    "eventRegistrations": 321,
+    "date": "2025-10-31",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "8, 24 am"
+  },
+  "Tech Talk 34": {
+    "event_title": "Tech Talk 34",
+    "eventRegistrations": 161,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "9, 47 am"
+  },
+  "Competition 50": {
+    "event_title": "Competition 50",
+    "eventRegistrations": 402,
+    "date": "2024-05-28",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "5, 53 pm"
+  },
+  "Seminar 31": {
+    "event_title": "Seminar 31",
+    "eventRegistrations": 442,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "12, 15 pm"
+  },
+  "Workshop 2": {
+    "event_title": "Workshop 2",
+    "eventRegistrations": 104,
+    "date": "2025-01-07",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "5, 15 pm"
+  },
+  "Workshop 26": {
+    "event_title": "Workshop 26",
+    "eventRegistrations": 182,
+    "date": "2025-08-29",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "8, 57 pm"
+  },
+  "Hackathon 26": {
+    "event_title": "Hackathon 26",
+    "eventRegistrations": 210,
+    "date": "2026-02-14",
+    "status": "Upcoming",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "6, 55 am"
+  },
+  "Meetup 31": {
+    "event_title": "Meetup 31",
+    "eventRegistrations": 122,
+    "date": "2024-12-19",
+    "status": "Completed",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "5, 18 am"
+  },
+  "Meetup 7": {
+    "event_title": "Meetup 7",
+    "eventRegistrations": 262,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "5, 33 pm"
+  },
+  "Networking Event 3": {
+    "event_title": "Networking Event 3",
+    "eventRegistrations": 328,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "1, 23 pm"
+  },
+  "Workshop 19": {
+    "event_title": "Workshop 19",
+    "eventRegistrations": 274,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "9, 17 am"
+  },
+  "Competition 6": {
+    "event_title": "Competition 6",
+    "eventRegistrations": 191,
+    "date": "2026-01-13",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "12, 1 am"
+  },
+  "Meetup 36": {
+    "event_title": "Meetup 36",
+    "eventRegistrations": 136,
+    "date": "2025-04-06",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "6, 27 am"
+  },
+  "Networking Event 47": {
+    "event_title": "Networking Event 47",
+    "eventRegistrations": 408,
+    "date": "2024-10-15",
+    "status": "Completed",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "11, 0 pm"
+  },
+  "Meetup 44": {
+    "event_title": "Meetup 44",
+    "eventRegistrations": 469,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "9, 43 pm"
+  },
+  "Hackathon 42": {
+    "event_title": "Hackathon 42",
+    "eventRegistrations": 131,
+    "date": "2025-06-13",
+    "status": "Upcoming",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "6, 31 am"
+  },
+  "Hackathon 21": {
+    "event_title": "Hackathon 21",
+    "eventRegistrations": 383,
+    "date": "2025-06-23",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "8, 15 am"
+  },
+  "Tech Talk 4": {
+    "event_title": "Tech Talk 4",
+    "eventRegistrations": 269,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "3, 11 pm"
+  },
+  "Hackathon 24": {
+    "event_title": "Hackathon 24",
+    "eventRegistrations": 217,
+    "date": "2024-07-17",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "9, 15 pm"
+  },
+  "Networking Event 48": {
+    "event_title": "Networking Event 48",
+    "eventRegistrations": 173,
+    "date": "2026-01-04",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "2, 50 am"
+  },
+  "Hackathon 29": {
+    "event_title": "Hackathon 29",
+    "eventRegistrations": 304,
+    "date": "2025-08-07",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "8, 58 am"
+  },
+  "Workshop 36": {
+    "event_title": "Workshop 36",
+    "eventRegistrations": 489,
+    "date": "2025-10-16",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "12, 37 pm"
+  },
+  "Hackathon 38": {
+    "event_title": "Hackathon 38",
+    "eventRegistrations": 54,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "4, 24 pm"
+  },
+  "Meetup 45": {
+    "event_title": "Meetup 45",
+    "eventRegistrations": 224,
+    "date": "2024-05-21",
+    "status": "Completed",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "7, 22 pm"
+  },
+  "Networking Event 33": {
+    "event_title": "Networking Event 33",
+    "eventRegistrations": 50,
+    "date": "2024-11-07",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "2, 10 pm"
+  },
+  "Networking Event 27": {
+    "event_title": "Networking Event 27",
+    "eventRegistrations": 76,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "10, 23 am"
+  },
+  "Meetup 24": {
+    "event_title": "Meetup 24",
+    "eventRegistrations": 114,
+    "date": "2024-08-27",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "10, 38 pm"
+  },
+  "Networking Event 36": {
+    "event_title": "Networking Event 36",
+    "eventRegistrations": 163,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "4, 41 pm"
+  },
+  "Seminar 16": {
+    "event_title": "Seminar 16",
+    "eventRegistrations": 404,
+    "date": "2024-05-15",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "10, 18 pm"
+  },
+  "Networking Event 17": {
+    "event_title": "Networking Event 17",
+    "eventRegistrations": 340,
+    "date": "2024-06-25",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "12, 53 am"
+  },
+  "Tech Talk 8": {
+    "event_title": "Tech Talk 8",
+    "eventRegistrations": 327,
+    "date": "2024-11-18",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "11, 26 am"
+  },
+  "Seminar 33": {
+    "event_title": "Seminar 33",
+    "eventRegistrations": 57,
+    "date": "2026-02-15",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "10, 29 pm"
+  },
+  "Seminar 10": {
+    "event_title": "Seminar 10",
+    "eventRegistrations": 406,
+    "date": "2024-06-03",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "7, 45 pm"
+  },
+  "Tech Talk 27": {
+    "event_title": "Tech Talk 27",
+    "eventRegistrations": 226,
+    "date": "2024-12-26",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "3, 58 pm"
+  },
+  "Meetup 47": {
+    "event_title": "Meetup 47",
+    "eventRegistrations": 123,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "10, 29 pm"
+  },
+  "Competition 23": {
+    "event_title": "Competition 23",
+    "eventRegistrations": 462,
+    "date": "2024-11-01",
+    "status": "Completed",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "6, 49 am"
+  },
+  "Networking Event 2": {
+    "event_title": "Networking Event 2",
+    "eventRegistrations": 469,
+    "date": "2025-08-17",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "8, 40 am"
+  },
+  "Workshop 28": {
+    "event_title": "Workshop 28",
+    "eventRegistrations": 257,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "1, 15 am"
+  },
+  "Competition 46": {
+    "event_title": "Competition 46",
+    "eventRegistrations": 244,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "6, 28 am"
+  },
+  "Tech Talk 6": {
+    "event_title": "Tech Talk 6",
+    "eventRegistrations": 312,
+    "date": "2026-02-07",
+    "status": "Upcoming",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "7, 25 am"
+  },
+  "Meetup 6": {
+    "event_title": "Meetup 6",
+    "eventRegistrations": 200,
+    "date": "2025-06-11",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "11, 7 pm"
+  },
+  "Seminar 43": {
+    "event_title": "Seminar 43",
+    "eventRegistrations": 423,
+    "date": "2024-12-06",
+    "status": "Completed",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "6, 24 am"
+  },
+  "Workshop 1": {
+    "event_title": "Workshop 1",
+    "eventRegistrations": 388,
+    "date": "2025-04-15",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "9, 27 pm"
+  },
+  "Tech Talk 42": {
+    "event_title": "Tech Talk 42",
+    "eventRegistrations": 395,
+    "date": "2024-06-13",
+    "status": "Completed",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "2, 35 pm"
+  },
+  "Tech Talk 20": {
+    "event_title": "Tech Talk 20",
+    "eventRegistrations": 270,
+    "date": "2025-04-27",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "4, 38 am"
+  },
+  "Hackathon 34": {
+    "event_title": "Hackathon 34",
+    "eventRegistrations": 316,
+    "date": "2025-07-24",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "12, 9 am"
+  },
+  "Competition 22": {
+    "event_title": "Competition 22",
+    "eventRegistrations": 257,
+    "date": "2024-08-05",
+    "status": "Completed",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "3, 58 pm"
+  },
+  "Competition 37": {
+    "event_title": "Competition 37",
+    "eventRegistrations": 399,
+    "date": "2025-08-13",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "6, 52 am"
+  },
+  "Tech Talk 28": {
+    "event_title": "Tech Talk 28",
+    "eventRegistrations": 78,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "1, 29 pm"
+  },
+  "Meetup 16": {
+    "event_title": "Meetup 16",
+    "eventRegistrations": 194,
+    "date": "2025-03-21",
+    "status": "Upcoming",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "4, 5 am"
+  },
+  "Meetup 23": {
+    "event_title": "Meetup 23",
+    "eventRegistrations": 69,
+    "date": "2025-09-07",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "10, 31 pm"
+  },
+  "Hackathon 46": {
+    "event_title": "Hackathon 46",
+    "eventRegistrations": 493,
+    "date": "2025-12-29",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "12, 56 am"
+  },
+  "Competition 12": {
+    "event_title": "Competition 12",
+    "eventRegistrations": 343,
+    "date": "2024-11-16",
+    "status": "Completed",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "2, 32 am"
+  },
+  "Workshop 14": {
+    "event_title": "Workshop 14",
+    "eventRegistrations": 302,
+    "date": "2025-08-03",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "12, 57 am"
+  },
+  "Workshop 22": {
+    "event_title": "Workshop 22",
+    "eventRegistrations": 456,
+    "date": "2025-07-21",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "8, 10 am"
+  },
+  "Workshop 44": {
+    "event_title": "Workshop 44",
+    "eventRegistrations": 495,
+    "date": "2024-04-02",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "2, 35 am"
+  },
+  "Workshop 49": {
+    "event_title": "Workshop 49",
+    "eventRegistrations": 465,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "7, 4 pm"
+  },
+  "Hackathon 44": {
+    "event_title": "Hackathon 44",
+    "eventRegistrations": 236,
+    "date": "2024-03-25",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "12, 36 am"
+  },
+  "Competition 9": {
+    "event_title": "Competition 9",
+    "eventRegistrations": 379,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "12, 14 pm"
+  },
+  "Seminar 7": {
+    "event_title": "Seminar 7",
+    "eventRegistrations": 499,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "2, 31 am"
+  },
+  "Tech Talk 39": {
+    "event_title": "Tech Talk 39",
+    "eventRegistrations": 442,
+    "date": "2024-10-15",
+    "status": "Completed",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "1, 6 am"
+  },
+  "Workshop 37": {
+    "event_title": "Workshop 37",
+    "eventRegistrations": 276,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "7, 7 am"
+  },
+  "Competition 8": {
+    "event_title": "Competition 8",
+    "eventRegistrations": 365,
+    "date": "2025-11-05",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "11, 22 am"
+  },
+  "Seminar 34": {
+    "event_title": "Seminar 34",
+    "eventRegistrations": 250,
+    "date": "2025-04-13",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "1, 21 pm"
+  },
+  "Hackathon 18": {
+    "event_title": "Hackathon 18",
+    "eventRegistrations": 264,
+    "date": "2025-05-20",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "10, 28 pm"
+  },
+  "Hackathon 47": {
+    "event_title": "Hackathon 47",
+    "eventRegistrations": 257,
+    "date": "2024-10-29",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "4, 27 am"
+  },
+  "Tech Talk 31": {
+    "event_title": "Tech Talk 31",
+    "eventRegistrations": 486,
+    "date": "2025-09-27",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "11, 41 am"
+  },
+  "Competition 42": {
+    "event_title": "Competition 42",
+    "eventRegistrations": 367,
+    "date": "2025-08-09",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "6, 14 pm"
+  },
+  "Meetup 14": {
+    "event_title": "Meetup 14",
+    "eventRegistrations": 132,
+    "date": "2024-11-11",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "7, 53 pm"
+  },
+  "Tech Talk 48": {
+    "event_title": "Tech Talk 48",
+    "eventRegistrations": 113,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "7, 38 pm"
+  },
+  "Hackathon 16": {
+    "event_title": "Hackathon 16",
+    "eventRegistrations": 184,
+    "date": "2024-03-06",
+    "status": "Completed",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "7, 41 pm"
+  },
+  "Seminar 8": {
+    "event_title": "Seminar 8",
+    "eventRegistrations": 237,
+    "date": "2024-12-18",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "7, 45 pm"
+  },
+  "Networking Event 30": {
+    "event_title": "Networking Event 30",
+    "eventRegistrations": 307,
+    "date": "2024-12-16",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "7, 31 am"
+  },
+  "Tech Talk 36": {
+    "event_title": "Tech Talk 36",
+    "eventRegistrations": 417,
+    "date": "2024-07-16",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "4, 12 pm"
+  },
+  "Seminar 35": {
+    "event_title": "Seminar 35",
+    "eventRegistrations": 329,
+    "date": "2026-01-28",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "7, 14 am"
+  },
+  "Seminar 42": {
+    "event_title": "Seminar 42",
+    "eventRegistrations": 450,
+    "date": "2025-06-17",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "7, 41 pm"
+  },
+  "Meetup 43": {
+    "event_title": "Meetup 43",
+    "eventRegistrations": 373,
+    "date": "2025-05-10",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "2, 25 am"
+  },
+  "Meetup 33": {
+    "event_title": "Meetup 33",
+    "eventRegistrations": 274,
+    "date": "2025-09-02",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "7, 19 pm"
+  },
+  "Seminar 28": {
+    "event_title": "Seminar 28",
+    "eventRegistrations": 90,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "6, 5 pm"
+  },
+  "Networking Event 44": {
+    "event_title": "Networking Event 44",
+    "eventRegistrations": 358,
+    "date": "2024-10-12",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "6, 3 pm"
+  },
+  "Workshop 12": {
+    "event_title": "Workshop 12",
+    "eventRegistrations": 197,
+    "date": "2025-12-19",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "9, 6 am"
+  },
+  "Hackathon 20": {
+    "event_title": "Hackathon 20",
+    "eventRegistrations": 274,
+    "date": "2025-10-24",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "4, 58 am"
+  },
+  "Meetup 17": {
+    "event_title": "Meetup 17",
+    "eventRegistrations": 495,
+    "date": "2024-09-19",
+    "status": "Completed",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "6, 0 am"
+  },
+  "Competition 24": {
+    "event_title": "Competition 24",
+    "eventRegistrations": 322,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "4, 25 pm"
+  },
+  "Meetup 30": {
+    "event_title": "Meetup 30",
+    "eventRegistrations": 65,
+    "date": "2024-09-07",
+    "status": "Completed",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "6, 43 pm"
+  },
+  "Hackathon 28": {
+    "event_title": "Hackathon 28",
+    "eventRegistrations": 317,
+    "date": "2024-05-11",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "12, 47 am"
+  },
+  "Tech Talk 22": {
+    "event_title": "Tech Talk 22",
+    "eventRegistrations": 112,
+    "date": "2025-02-07",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "1, 50 am"
+  },
+  "Seminar 45": {
+    "event_title": "Seminar 45",
+    "eventRegistrations": 71,
+    "date": "2026-01-31",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "6, 55 pm"
+  },
+  "Hackathon 48": {
+    "event_title": "Hackathon 48",
+    "eventRegistrations": 142,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "1, 5 am"
+  },
+  "Meetup 46": {
+    "event_title": "Meetup 46",
+    "eventRegistrations": 152,
+    "date": "2025-05-08",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "8, 32 pm"
+  },
+  "Seminar 22": {
+    "event_title": "Seminar 22",
+    "eventRegistrations": 279,
+    "date": "2024-02-28",
+    "status": "Completed",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "6, 28 am"
+  },
+  "Hackathon 50": {
+    "event_title": "Hackathon 50",
+    "eventRegistrations": 86,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "12, 1 am"
+  },
+  "Tech Talk 17": {
+    "event_title": "Tech Talk 17",
+    "eventRegistrations": 63,
+    "date": "2024-03-12",
+    "status": "Completed",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "9, 36 am"
+  },
+  "Seminar 2": {
+    "event_title": "Seminar 2",
+    "eventRegistrations": 432,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "2, 36 am"
+  },
+  "Networking Event 31": {
+    "event_title": "Networking Event 31",
+    "eventRegistrations": 356,
+    "date": "2024-02-28",
+    "status": "Completed",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "11, 1 pm"
+  },
+  "Competition 5": {
+    "event_title": "Competition 5",
+    "eventRegistrations": 403,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "7, 37 am"
+  },
+  "Seminar 21": {
+    "event_title": "Seminar 21",
+    "eventRegistrations": 427,
+    "date": "2026-02-19",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "2, 47 am"
+  },
+  "Tech Talk 2": {
+    "event_title": "Tech Talk 2",
+    "eventRegistrations": 68,
+    "date": "2025-12-28",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "11, 30 pm"
+  },
+  "Hackathon 33": {
+    "event_title": "Hackathon 33",
+    "eventRegistrations": 352,
+    "date": "2025-03-03",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "10, 39 am"
+  },
+  "Networking Event 16": {
+    "event_title": "Networking Event 16",
+    "eventRegistrations": 407,
+    "date": "2025-04-28",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "10, 1 pm"
+  },
+  "Seminar 32": {
+    "event_title": "Seminar 32",
+    "eventRegistrations": 191,
+    "date": "2025-11-04",
+    "status": "Upcoming",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "3, 46 am"
+  },
+  "Workshop 45": {
+    "event_title": "Workshop 45",
+    "eventRegistrations": 420,
+    "date": "2026-01-01",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "10, 58 am"
+  },
+  "Meetup 42": {
+    "event_title": "Meetup 42",
+    "eventRegistrations": 447,
+    "date": "2025-11-07",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "5, 35 am"
+  },
+  "Networking Event 22": {
+    "event_title": "Networking Event 22",
+    "eventRegistrations": 154,
+    "date": "2025-12-08",
+    "status": "Upcoming",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "6, 12 pm"
+  },
+  "Seminar 26": {
+    "event_title": "Seminar 26",
+    "eventRegistrations": 94,
+    "date": "2025-07-11",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "3, 57 am"
+  },
+  "Seminar 19": {
+    "event_title": "Seminar 19",
+    "eventRegistrations": 500,
+    "date": "2025-01-07",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "1, 44 pm"
+  },
+  "Hackathon 2": {
+    "event_title": "Hackathon 2",
+    "eventRegistrations": 277,
+    "date": "2024-06-13",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "2, 18 pm"
+  },
+  "Meetup 28": {
+    "event_title": "Meetup 28",
+    "eventRegistrations": 217,
+    "date": "2025-11-25",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "8, 29 am"
+  },
+  "Hackathon 36": {
+    "event_title": "Hackathon 36",
+    "eventRegistrations": 114,
+    "date": "2025-08-13",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "9, 60 am"
+  },
+  "Competition 1": {
+    "event_title": "Competition 1",
+    "eventRegistrations": 115,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "11, 27 pm"
+  },
+  "Meetup 2": {
+    "event_title": "Meetup 2",
+    "eventRegistrations": 432,
+    "date": "2024-06-23",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "7, 29 am"
+  },
+  "Seminar 50": {
+    "event_title": "Seminar 50",
+    "eventRegistrations": 271,
+    "date": "2025-11-13",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "8, 15 am"
+  },
+  "Tech Talk 11": {
+    "event_title": "Tech Talk 11",
+    "eventRegistrations": 185,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "4, 46 pm"
+  },
+  "Competition 32": {
+    "event_title": "Competition 32",
+    "eventRegistrations": 286,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "2, 48 pm"
+  },
+  "Seminar 29": {
+    "event_title": "Seminar 29",
+    "eventRegistrations": 426,
+    "date": "2024-12-23",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "1, 3 am"
+  },
+  "Seminar 15": {
+    "event_title": "Seminar 15",
+    "eventRegistrations": 56,
+    "date": "2025-10-02",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "11, 8 pm"
+  },
+  "Workshop 23": {
+    "event_title": "Workshop 23",
+    "eventRegistrations": 179,
+    "date": "2026-01-08",
+    "status": "Upcoming",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "10, 7 pm"
+  },
+  "Tech Talk 26": {
+    "event_title": "Tech Talk 26",
+    "eventRegistrations": 177,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "7, 3 pm"
+  },
+  "Hackathon 32": {
+    "event_title": "Hackathon 32",
+    "eventRegistrations": 50,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "6, 21 am"
+  },
+  "Competition 29": {
+    "event_title": "Competition 29",
+    "eventRegistrations": 55,
+    "date": "2024-05-24",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "9, 16 am"
+  },
+  "Networking Event 41": {
+    "event_title": "Networking Event 41",
+    "eventRegistrations": 439,
+    "date": "2024-08-12",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "2, 44 am"
+  },
+  "Competition 13": {
+    "event_title": "Competition 13",
+    "eventRegistrations": 105,
+    "date": "2024-08-22",
+    "status": "Completed",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "4, 55 pm"
+  },
+  "Seminar 12": {
+    "event_title": "Seminar 12",
+    "eventRegistrations": 134,
+    "date": "2024-08-06",
+    "status": "Completed",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "3, 6 am"
+  },
+  "Tech Talk 9": {
+    "event_title": "Tech Talk 9",
+    "eventRegistrations": 437,
+    "date": "2024-06-19",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "6, 19 am"
+  },
+  "Tech Talk 19": {
+    "event_title": "Tech Talk 19",
+    "eventRegistrations": 226,
+    "date": "2025-11-20",
+    "status": "Upcoming",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "1, 2 pm"
+  },
+  "Tech Talk 13": {
+    "event_title": "Tech Talk 13",
+    "eventRegistrations": 325,
+    "date": "2024-07-19",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "6, 17 am"
+  },
+  "Meetup 25": {
+    "event_title": "Meetup 25",
+    "eventRegistrations": 255,
+    "date": "2024-12-14",
+    "status": "Completed",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "4, 37 pm"
+  },
+  "Seminar 44": {
+    "event_title": "Seminar 44",
+    "eventRegistrations": 234,
+    "date": "2025-11-11",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "5, 56 am"
+  },
+  "Competition 36": {
+    "event_title": "Competition 36",
+    "eventRegistrations": 494,
+    "date": "2026-02-04",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "7, 31 am"
+  },
+  "Hackathon 19": {
+    "event_title": "Hackathon 19",
+    "eventRegistrations": 71,
+    "date": "2025-05-28",
+    "status": "Upcoming",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "8, 29 pm"
+  },
+  "Hackathon 31": {
+    "event_title": "Hackathon 31",
+    "eventRegistrations": 168,
+    "date": "2024-06-18",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "12, 24 pm"
+  },
+  "Networking Event 43": {
+    "event_title": "Networking Event 43",
+    "eventRegistrations": 298,
+    "date": "2026-02-09",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "12, 53 pm"
+  },
+  "Workshop 50": {
+    "event_title": "Workshop 50",
+    "eventRegistrations": 452,
+    "date": "2024-03-01",
+    "status": "Completed",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "11, 45 pm"
+  },
+  "Workshop 48": {
+    "event_title": "Workshop 48",
+    "eventRegistrations": 215,
+    "date": "2025-08-06",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "8, 37 am"
+  },
+  "Seminar 41": {
+    "event_title": "Seminar 41",
+    "eventRegistrations": 457,
+    "date": "2026-02-09",
+    "status": "Upcoming",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "10, 25 pm"
+  },
+  "Meetup 20": {
+    "event_title": "Meetup 20",
+    "eventRegistrations": 320,
+    "date": "2025-06-21",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "7, 14 pm"
+  },
+  "Meetup 13": {
+    "event_title": "Meetup 13",
+    "eventRegistrations": 285,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "8, 4 pm"
+  },
+  "Seminar 40": {
+    "event_title": "Seminar 40",
+    "eventRegistrations": 182,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "8, 59 am"
+  },
+  "Meetup 49": {
+    "event_title": "Meetup 49",
+    "eventRegistrations": 232,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "9, 7 pm"
+  },
+  "Tech Talk 10": {
+    "event_title": "Tech Talk 10",
+    "eventRegistrations": 75,
+    "date": "2024-06-01",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "3, 41 am"
+  },
+  "Networking Event 42": {
+    "event_title": "Networking Event 42",
+    "eventRegistrations": 349,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "2, 53 pm"
+  },
+  "Hackathon 13": {
+    "event_title": "Hackathon 13",
+    "eventRegistrations": 399,
+    "date": "2025-06-19",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "3, 12 am"
+  },
+  "Meetup 18": {
+    "event_title": "Meetup 18",
+    "eventRegistrations": 317,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "7, 49 pm"
+  },
+  "Hackathon 25": {
+    "event_title": "Hackathon 25",
+    "eventRegistrations": 166,
+    "date": "2025-09-23",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "6, 2 pm"
+  },
+  "Tech Talk 47": {
+    "event_title": "Tech Talk 47",
+    "eventRegistrations": 75,
+    "date": "2024-12-09",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "2, 60 am"
+  },
+  "Seminar 13": {
+    "event_title": "Seminar 13",
+    "eventRegistrations": 369,
+    "date": "2025-05-10",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "12, 14 am"
+  },
+  "Hackathon 9": {
+    "event_title": "Hackathon 9",
+    "eventRegistrations": 103,
+    "date": "2024-02-27",
+    "status": "Completed",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "1, 34 am"
+  },
+  "Hackathon 10": {
+    "event_title": "Hackathon 10",
+    "eventRegistrations": 109,
+    "date": "2024-09-21",
+    "status": "Completed",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "1, 13 am"
+  },
+  "Competition 17": {
+    "event_title": "Competition 17",
+    "eventRegistrations": 349,
+    "date": "2025-09-10",
+    "status": "Upcoming",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "11, 35 am"
+  },
+  "Networking Event 29": {
+    "event_title": "Networking Event 29",
+    "eventRegistrations": 99,
+    "date": "2025-02-05",
+    "status": "Completed",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "12, 38 pm"
+  },
+  "Workshop 17": {
+    "event_title": "Workshop 17",
+    "eventRegistrations": 224,
+    "date": "2025-09-06",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "5, 20 pm"
+  },
+  "Competition 31": {
+    "event_title": "Competition 31",
+    "eventRegistrations": 197,
+    "date": "2025-03-12",
+    "status": "Upcoming",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "8, 39 pm"
+  },
+  "Meetup 15": {
+    "event_title": "Meetup 15",
+    "eventRegistrations": 269,
+    "date": "2024-12-15",
+    "status": "Completed",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "5, 50 am"
+  },
+  "Networking Event 37": {
+    "event_title": "Networking Event 37",
+    "eventRegistrations": 271,
+    "date": "2024-07-12",
+    "status": "Completed",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "11, 25 am"
+  },
+  "Workshop 6": {
+    "event_title": "Workshop 6",
+    "eventRegistrations": 211,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "7, 7 am"
+  },
+  "Workshop 8": {
+    "event_title": "Workshop 8",
+    "eventRegistrations": 351,
+    "date": "2025-02-13",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "10, 51 pm"
+  },
+  "Seminar 30": {
+    "event_title": "Seminar 30",
+    "eventRegistrations": 250,
+    "date": "2024-11-20",
+    "status": "Completed",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "4, 16 pm"
+  },
+  "Workshop 20": {
+    "event_title": "Workshop 20",
+    "eventRegistrations": 237,
+    "date": "2024-04-16",
+    "status": "Completed",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "4, 35 am"
+  },
+  "Seminar 11": {
+    "event_title": "Seminar 11",
+    "eventRegistrations": 397,
+    "date": "2024-10-28",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "10, 4 am"
+  },
+  "Networking Event 39": {
+    "event_title": "Networking Event 39",
+    "eventRegistrations": 239,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "2, 13 pm"
+  },
+  "Workshop 38": {
+    "event_title": "Workshop 38",
+    "eventRegistrations": 286,
+    "date": "2024-12-07",
+    "status": "Completed",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "6, 42 pm"
+  },
+  "Meetup 37": {
+    "event_title": "Meetup 37",
+    "eventRegistrations": 464,
+    "date": "2024-07-09",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "7, 45 am"
+  },
+  "Networking Event 24": {
+    "event_title": "Networking Event 24",
+    "eventRegistrations": 414,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "8, 35 pm"
+  },
+  "Networking Event 20": {
+    "event_title": "Networking Event 20",
+    "eventRegistrations": 106,
+    "date": "2025-03-06",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "1, 59 am"
+  },
+  "Networking Event 11": {
+    "event_title": "Networking Event 11",
+    "eventRegistrations": 155,
+    "date": "2024-06-07",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "2, 4 pm"
+  },
+  "Competition 15": {
+    "event_title": "Competition 15",
+    "eventRegistrations": 393,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "4, 37 pm"
+  },
+  "Workshop 24": {
+    "event_title": "Workshop 24",
+    "eventRegistrations": 215,
+    "date": "2025-08-09",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "11, 13 pm"
+  },
+  "Seminar 4": {
+    "event_title": "Seminar 4",
+    "eventRegistrations": 430,
+    "date": "2025-05-27",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "5, 59 am"
+  },
+  "Networking Event 35": {
+    "event_title": "Networking Event 35",
+    "eventRegistrations": 489,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "10, 5 pm"
+  },
+  "Meetup 8": {
+    "event_title": "Meetup 8",
+    "eventRegistrations": 85,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "12, 4 am"
+  },
+  "Workshop 39": {
+    "event_title": "Workshop 39",
+    "eventRegistrations": 348,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "8, 47 am"
+  },
+  "Competition 25": {
+    "event_title": "Competition 25",
+    "eventRegistrations": 346,
+    "date": "2025-06-12",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "3, 4 am"
+  },
+  "Tech Talk 24": {
+    "event_title": "Tech Talk 24",
+    "eventRegistrations": 91,
+    "date": "2025-06-21",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "11, 26 pm"
+  },
+  "Competition 41": {
+    "event_title": "Competition 41",
+    "eventRegistrations": 234,
+    "date": "2025-06-27",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "1, 2 am"
+  },
+  "Hackathon 15": {
+    "event_title": "Hackathon 15",
+    "eventRegistrations": 181,
+    "date": "2024-11-22",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "10, 7 am"
+  },
+  "Meetup 34": {
+    "event_title": "Meetup 34",
+    "eventRegistrations": 390,
+    "date": "2024-03-15",
+    "status": "Completed",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "10, 33 pm"
+  },
+  "Meetup 38": {
+    "event_title": "Meetup 38",
+    "eventRegistrations": 373,
+    "date": "2024-08-01",
+    "status": "Completed",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "1, 11 pm"
+  },
+  "Tech Talk 25": {
+    "event_title": "Tech Talk 25",
+    "eventRegistrations": 377,
+    "date": "2025-08-29",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "1, 0 am"
+  },
+  "Hackathon 8": {
+    "event_title": "Hackathon 8",
+    "eventRegistrations": 257,
+    "date": "2024-03-28",
+    "status": "Completed",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "12, 60 am"
+  },
+  "Workshop 3": {
+    "event_title": "Workshop 3",
+    "eventRegistrations": 470,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "12, 32 pm"
+  },
+  "Competition 26": {
+    "event_title": "Competition 26",
+    "eventRegistrations": 82,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "1, 16 pm"
+  },
+  "Tech Talk 50": {
+    "event_title": "Tech Talk 50",
+    "eventRegistrations": 147,
+    "date": "2025-11-15",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "6, 29 am"
+  },
+  "Networking Event 23": {
+    "event_title": "Networking Event 23",
+    "eventRegistrations": 489,
+    "date": "2025-11-29",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "10, 20 am"
+  },
+  "Seminar 25": {
+    "event_title": "Seminar 25",
+    "eventRegistrations": 395,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "10, 59 pm"
+  },
+  "Competition 48": {
+    "event_title": "Competition 48",
+    "eventRegistrations": 221,
+    "date": "2025-09-03",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "7, 19 am"
+  },
+  "Competition 49": {
+    "event_title": "Competition 49",
+    "eventRegistrations": 196,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "1, 18 am"
+  },
+  "Networking Event 7": {
+    "event_title": "Networking Event 7",
+    "eventRegistrations": 323,
+    "date": "2025-03-15",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "3, 22 pm"
+  },
+  "Seminar 23": {
+    "event_title": "Seminar 23",
+    "eventRegistrations": 199,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "5, 50 am"
+  },
+  "Tech Talk 46": {
+    "event_title": "Tech Talk 46",
+    "eventRegistrations": 244,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "3, 9 pm"
+  },
+  "Seminar 47": {
+    "event_title": "Seminar 47",
+    "eventRegistrations": 294,
+    "date": "2025-04-01",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "2, 17 pm"
+  },
+  "Tech Talk 45": {
+    "event_title": "Tech Talk 45",
+    "eventRegistrations": 377,
+    "date": "2025-11-30",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "2, 20 pm"
+  },
+  "Meetup 48": {
+    "event_title": "Meetup 48",
+    "eventRegistrations": 433,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "2, 52 am"
+  },
+  "Workshop 16": {
+    "event_title": "Workshop 16",
+    "eventRegistrations": 188,
+    "date": "2025-01-15",
+    "status": "Completed",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "1, 35 am"
+  },
+  "Seminar 36": {
+    "event_title": "Seminar 36",
+    "eventRegistrations": 404,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "2, 15 am"
+  },
+  "Networking Event 49": {
+    "event_title": "Networking Event 49",
+    "eventRegistrations": 139,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "9, 59 am"
+  },
+  "Workshop 18": {
+    "event_title": "Workshop 18",
+    "eventRegistrations": 241,
+    "date": "2025-02-17",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "10, 28 am"
+  },
+  "Meetup 1": {
+    "event_title": "Meetup 1",
+    "eventRegistrations": 202,
+    "date": "2025-10-16",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "6, 29 pm"
+  },
+  "Hackathon 40": {
+    "event_title": "Hackathon 40",
+    "eventRegistrations": 493,
+    "date": "2025-04-09",
+    "status": "Upcoming",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "7, 14 pm"
+  },
+  "Hackathon 4": {
+    "event_title": "Hackathon 4",
+    "eventRegistrations": 242,
+    "date": "2025-04-08",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "4, 37 pm"
+  },
+  "Meetup 40": {
+    "event_title": "Meetup 40",
+    "eventRegistrations": 146,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "12, 42 am"
+  },
+  "Hackathon 14": {
+    "event_title": "Hackathon 14",
+    "eventRegistrations": 297,
+    "date": "2025-02-15",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "3, 54 am"
+  },
+  "Tech Talk 1": {
+    "event_title": "Tech Talk 1",
+    "eventRegistrations": 419,
+    "date": "2025-02-28",
+    "status": "Upcoming",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "8, 39 am"
+  },
+  "Competition 40": {
+    "event_title": "Competition 40",
+    "eventRegistrations": 478,
+    "date": "2024-07-01",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "7, 59 am"
+  },
+  "Networking Event 15": {
+    "event_title": "Networking Event 15",
+    "eventRegistrations": 155,
+    "date": "2025-02-09",
+    "status": "Completed",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "7, 8 pm"
+  },
+  "Tech Talk 12": {
+    "event_title": "Tech Talk 12",
+    "eventRegistrations": 416,
+    "date": "2024-07-30",
+    "status": "Completed",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "8, 3 pm"
+  },
+  "Competition 34": {
+    "event_title": "Competition 34",
+    "eventRegistrations": 125,
+    "date": "2024-11-20",
+    "status": "Completed",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "9, 29 am"
+  },
+  "Networking Event 46": {
+    "event_title": "Networking Event 46",
+    "eventRegistrations": 408,
+    "date": "2025-02-18",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "1, 27 pm"
+  },
+  "Seminar 9": {
+    "event_title": "Seminar 9",
+    "eventRegistrations": 157,
+    "date": "2025-03-04",
+    "status": "Upcoming",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "7, 48 am"
+  },
+  "Workshop 33": {
+    "event_title": "Workshop 33",
+    "eventRegistrations": 380,
+    "date": "2025-02-20",
+    "status": "Ongoing",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "2, 4 pm"
+  },
+  "Meetup 19": {
+    "event_title": "Meetup 19",
+    "eventRegistrations": 101,
+    "date": "2025-07-01",
+    "status": "Upcoming",
+    "desc": "A cultural exchange program that fosters mutual understanding and appreciation through various artistic and interactive activities.",
+    "adr": "College auditorium",
+    "time": "5, 32 pm"
+  },
+  "Hackathon 30": {
+    "event_title": "Hackathon 30",
+    "eventRegistrations": 233,
+    "date": "2025-06-29",
+    "status": "Upcoming",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "5, 33 pm"
+  },
+  "Meetup 5": {
+    "event_title": "Meetup 5",
+    "eventRegistrations": 453,
+    "date": "2024-04-18",
+    "status": "Completed",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "12, 7 am"
+  },
+  "Seminar 27": {
+    "event_title": "Seminar 27",
+    "eventRegistrations": 161,
+    "date": "2025-02-19",
+    "status": "Ongoing",
+    "desc": "A comprehensive workshop aimed at providing an in-depth understanding of industry trends and practical applications through live demonstrations.",
+    "adr": "College auditorium",
+    "time": "9, 41 pm"
+  },
+  "Networking Event 45": {
+    "event_title": "Networking Event 45",
+    "eventRegistrations": 389,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "An intensive hackathon focused on developing innovative solutions to pressing problems, fostering teamwork and creativity in a high-energy environment.",
+    "adr": "College auditorium",
+    "time": "5, 21 pm"
+  },
+  "Meetup 3": {
+    "event_title": "Meetup 3",
+    "eventRegistrations": 495,
+    "date": "2026-02-02",
+    "status": "Upcoming",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "11, 0 pm"
+  },
+  "Tech Talk 16": {
+    "event_title": "Tech Talk 16",
+    "eventRegistrations": 130,
+    "date": "2025-03-05",
+    "status": "Upcoming",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "7, 49 pm"
+  },
+  "Workshop 41": {
+    "event_title": "Workshop 41",
+    "eventRegistrations": 119,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "An exciting blend of creativity and skill development where attendees will collaborate to produce meaningful and impactful projects.",
+    "adr": "College auditorium",
+    "time": "7, 7 am"
+  },
+  "Workshop 4": {
+    "event_title": "Workshop 4",
+    "eventRegistrations": 489,
+    "date": "2025-02-21",
+    "status": "Ongoing",
+    "desc": "Participants will engage in hands-on activities to solve real-world challenges while learning from experts in the field of technology and innovation.",
+    "adr": "College auditorium",
+    "time": "7, 20 pm"
+  },
+  "Competition 47": {
+    "event_title": "Competition 47",
+    "eventRegistrations": 379,
+    "date": "2025-07-06",
+    "status": "Upcoming",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "8, 25 am"
+  },
+  "Workshop 30": {
+    "event_title": "Workshop 30",
+    "eventRegistrations": 140,
+    "date": "2024-07-29",
+    "status": "Completed",
+    "desc": "A fierce and dynamic competition designed to push the limits of knowledge and expertise, encouraging participants to think outside the box.",
+    "adr": "College auditorium",
+    "time": "7, 49 am"
+  },
+  "Workshop 46": {
+    "event_title": "Workshop 46",
+    "eventRegistrations": 91,
+    "date": "2025-02-16",
+    "status": "Ongoing",
+    "desc": "A brainstorming event where like-minded individuals come together to generate fresh and unique ideas for solving industry-specific challenges.",
+    "adr": "College auditorium",
+    "time": "11, 44 am"
+  },
+  "Competition 7": {
+    "event_title": "Competition 7",
+    "eventRegistrations": 169,
+    "date": "2025-11-01",
+    "status": "Upcoming",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "11, 40 pm"
+  },
+  "Workshop 32": {
+    "event_title": "Workshop 32",
+    "eventRegistrations": 101,
+    "date": "2024-12-17",
+    "status": "Completed",
+    "desc": "An engaging networking event bringing together professionals, students, and enthusiasts to discuss and explore opportunities for collaboration.",
+    "adr": "College auditorium",
+    "time": "1, 11 am"
+  },
+  "Networking Event 26": {
+    "event_title": "Networking Event 26",
+    "eventRegistrations": 98,
+    "date": "2025-06-20",
+    "status": "Upcoming",
+    "desc": "An enlightening seminar led by seasoned professionals, where attendees can gain valuable insights and engage in discussions on future possibilities.",
+    "adr": "College auditorium",
+    "time": "10, 45 am"
+  },
+  "Hackathon 1": {
+    "event_title": "Hackathon 1",
+    "eventRegistrations": 53,
+    "date": "2026-01-10",
+    "status": "Upcoming",
+    "desc": "A debate session designed to sharpen analytical thinking, improve public speaking skills, and encourage respectful discourse on diverse topics.",
+    "adr": "College auditorium",
+    "time": "2, 15 pm"
+  }
+}

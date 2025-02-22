@@ -5,9 +5,61 @@ import Ftabs from "./filtertabs"
 import {Clock} from "lucide-react";
 import Search from '../components/search.jsx';
 import TabNav from '../components/tabnav.jsx';
+var i =0
 
+const isBooked = (title)=>{
+    return fetchApiData("get", "isbooked", {
+            headers: {
+                'Content-Type': 'application/json',
+                'Authorization': localStorage.getItem("token"),
+        },
+        params: {
+            name: title,
+            id: `${window.userData.name}`
+        }
+    })
+}
+
+const book = (title)=>{
+    isBooked(title).then(
+        res => {
+           var _ = res.data
+           if (_.success == false){
+             fetchApiData(
+                "get",
+                "event/" + title,
+                {headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': localStorage.getItem("token"),
+            }}
+             ).then(
+                res => {
+                    var h =res.data
+                    fetchApiData(
+                        "post",
+                        "book",
+                        {headers: {
+                            'Content-Type': 'application/json',
+                            'Authorization': localStorage.getItem("token"),
+                    },
+                        data: {
+                            name: h.event_title,
+                            id: window.userData.name,
+                            time:h.time,
+                            adr: h.adr,
+                            date:h.date
+                        }
+                }
+                     ).then(
+                        (res)=>console.log(res.data)
+                     )
+                }
+             )
+           } 
+        }
+    )
+}
 const genCard = (cat,title,desc,status,date,reg)=>{
-
     return  <div className="flex flex-col w-80 h-fit border border-black p-4 rounded-2xl bg-(--bg-e) text-white">
     <div className="flex w-full h-fit">
         <div className="title font-[DM_Sans] text-(--bg-c) opacity-70">{cat}</div>
@@ -28,7 +80,7 @@ const genCard = (cat,title,desc,status,date,reg)=>{
             <div className="p-2 whitespace-nowrap border">
                 View More
             </div>
-            <div className="p-2 bg-(--bg-h) text-center rounded-[10px]">Book now</div>
+            <div className="p-2 bg-(--bg-h) text-center rounded-[10px] cursor-pointer" onClick={()=>{book(title)}}>Book now</div>
         </div>
     </div>
 </div>
