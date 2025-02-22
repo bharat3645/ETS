@@ -9,7 +9,7 @@
       />
 
       <div
-        class="absolute inset-x-0 sm:-bottom-[65%] -bottom-[6%]  sm:h-full h-[30%] w-full rounded-[60%] bg-gradient-to-b from-white to-black"
+        class="absolute inset-x-0 sm:-bottom-[65%] -bottom-[6%]  sm:h-full h-[30%] w-full rounded-[100%] bg-gradient-to-b from-white to-black"
       />
       <div
         class="absolute inset-x-0 sm:-bottom-[65.2%] -bottom-[6.2%] sm:h-full h-[30%] w-full rounded-[100%] bg-neutral-950 shadow-[inset_0_2px_20px_#fff,0_-10px_50px_1px_#ffffff7d]"
