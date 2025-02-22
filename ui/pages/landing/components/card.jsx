@@ -5,13 +5,13 @@ import VisibilitySensor from 'react-visibility-sensor';
 
 const card = (type,title,desc,reg,date,i) => {
     return (
-        <div className="flex flex-col h-full w-full p-2  bg-white rounded-2xl origin-center" id={"card" + i}>
+        <div className="flex flex-col h-fit w-full p-2     bg-white rounded-2xl origin-center " id={"card" + i}>
             <div className="flex flex-col w-full h-full  space-y-10" >
                 <div className="flex flex-col w-full h-fit space-y-5">
                     <div className="type text-(--bg-h) capitalize text-2xl">{type}</div>
                     <div className="flex flex-col w-full h-fit space-y-4">
-                        <div className="title text-4xl font-bold">{title}</div>
-                        <div className="desc text-[60%]">{desc}</div>
+                        <div className="title sm:text-4xl text-xl font-bold text-black">{title}</div>
+                        <div className="desc sm:text-[60%] text-[10px] opacity-70 text-black">{desc}</div>
                     </div>
                 </div>
                 <div className="flex w-full h-fit text-center text-2xl justify-center font-extrabold text-(--bg-h) opacity-70">
@@ -117,7 +117,7 @@ function Animations(p){
         return animations
     }
     return (
-        <div className="flex w-full h-full space-x-25 p-10 items-center" id='cc'>
+        <div className="xl:flex xl:flex-row flex-col overflow-hidden xl:w-full w-[95%] h-full space-x-25 space-y-30  xl:items-start items-center mt-10  xl:m-[0] ml-auto mr-auto" id='cc'>
             {
                     data.map((v,i)=>{
                         return card(v[0],v[1],v[2],v[3],v[4],i)

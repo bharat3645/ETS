@@ -3,6 +3,7 @@ body {
   padding: 0;
   background-color: var(--body);
   user-select: none;
+  color: var(--body);
 }
 :root{
   --body: rgb(9, 8, 20);
@@ -11,6 +12,20 @@ body {
 }
 .kk {
   fill: #b0ff8c;
+}
+a {
+  text-decoration: none !important;
+  color: white;
+}
+.soc{
+  display: grid;
+  grid-template-columns: 90% 10%;
+}
+.soc:after{
+  width: 60%;
+  height: 60%;
+  transform: scale(.7) translateY(-5%);
+  content: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1vdmUtdXAtcmlnaHQiPjxwYXRoIGQ9Ik0xMyA1SDE5VjExIi8+PHBhdGggZD0iTTE5IDVMNSAxOSIvPjwvc3ZnPg==");
 }
 .cursor{
   position: absolute;

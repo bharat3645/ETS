@@ -3,7 +3,7 @@ import CountUp from 'react-countup';
 import VisibilitySensor from 'react-visibility-sensor';
 
 const Polygon_7 = (props) => (
-    <video width="320" height="240" autoPlay loop muted>
+    <video  class='sm:w-[320px] sm:h-[240px] w-full' autoPlay loop muted>
     <source src="/assets/mp4/orb.mp4" type="video/mp4" />
     </video>
 );
@@ -18,9 +18,9 @@ class About extends React.Component{
     }
     render(){
         return (<div className="sct w-full h-full  flex-col text-white justify-center items-center">
-            <div className="grid grid-cols-[50%_50%] h-fit text-2xl font-[DM_Sans] space-x-20">
+            <div className="grid grid-cols-2 h-fit sm:text-2xl text-[20px] font-[DM_Sans] text-end space-x-20">
                 <div className="flex flex-col h-fit w-fit">
-                     <div className="text-center font-bold text-3xl">{
+                     <div className="text-center font-bold sm:text-3xl text-[20px]">{
                         <CountUp end={400} redraw={true}>
                             {({ countUpRef, start }) => (
                                 <VisibilitySensor onChange={start} delayedCall>
@@ -29,10 +29,10 @@ class About extends React.Component{
                             )}
                         </CountUp>
                       }</div>
-                    <div className="ti font-light tracking-[10px] text-center">Registration</div>
+                    <div className="ti font-light sm:tracking-[10px] text-center">Registration</div>
                 </div>
                 <div className="flex flex-col h-fit w-fit justify-center ml-auto mr-auto">
-                    <div className="text-center font-bold text-3xl">{
+                    <div className="text-center font-bold sm:text-3xl text-[20px]">{
                         <CountUp end={20} redraw={true}>
                             {({ countUpRef, start }) => (
                                 <VisibilitySensor onChange={start} delayedCall>
@@ -41,15 +41,15 @@ class About extends React.Component{
                             )}
                         </CountUp>
                       }</div>
-                    <div className="ti font-light tracking-[10px] text-center">Events</div>
+                    <div className="ti font-light sm:tracking-[10px] text-center">Events</div>
                 </div>
             </div>
             <div className="flex w-full h-fit justify-center scale-50">
                 {Polygon_7()}
             </div>
-            <div className="grid grid-cols-[50%_50%] h-fit text-2xl font-[DM_Sans] space-x-20">
+            <div className="grid grid-cols-[50%_50%] h-fit text-2xl font-[DM_Sans] sm:space-x-20 text-end">
                 <div className="flex flex-col h-fit w-fit">
-                    <div className="text-center font-bold text-3xl">{
+                    <div className="text-center font-bold sm:text-3xl text-[20px]">{
                             <CountUp end={30} redraw={true}>
                                 {({ countUpRef, start }) => (
                                     <VisibilitySensor onChange={start} delayedCall>
@@ -58,10 +58,10 @@ class About extends React.Component{
                                 )}
                             </CountUp>
                         }</div>
-                    <div className="ti font-light tracking-[10px] text-center">Societies</div>
+                    <div className="ti font-light sm:tracking-[10px] text-center">Societies</div>
                 </div>
                 <div className="flex flex-col h-fit w-fit justify-center ml-auto mr-auto">
-                    <div className="text-center font-bold text-3xl">{
+                    <div className="text-center font-bold sm:text-3xl text-[20px]">{
                         <CountUp end={150} redraw={true}>
                                 {({ countUpRef, start }) => (
                                     <VisibilitySensor onChange={start} delayedCall>
@@ -70,7 +70,7 @@ class About extends React.Component{
                                 )}
                         </CountUp>
                         }</div>
-                    <div className="ti font-light tracking-[10px] text-center">Seats</div>
+                    <div className="ti font-light sm:tracking-[10px] text-center">Seats</div>
                 </div>
             </div>
          </div>)

@@ -14,33 +14,88 @@
 <body>
     <div id="cursor"></div>
     <div id="root">
-        <div class="l1 flex flex-col w-full h-full">
+        <div class="flex flex-col w-full h-full">
             <div id="particle" class="w-[100vw] h-[100vh] absolute z-[-1]"></div>
-            <div class="quote flex  flex-col text-white self-center mt-auto mb-auto text-8xl font-[700] font-[Metropolis]">
-                <div class="text-8xl font-[700] ">
+            <div class="quote flex  flex-col text-white self-center mt-auto mb-auto xl:text-[400%] lg:text-[350%] md:text-[250%] sm:text-[2em] text-[30px] font-[700] font-[Metropolis]">
+                <div class="md:text-[120%] font-[700] text-center">
                     Innovation Starts Here
                 </div>
-                <div class="text-xl font-[200] self-center opacity-70">
+                <div class="lg:text-xl sm:text-[35%] text-[30%] font-[200] self-center opacity-70">
                     Unlocking limitless possibilities through technology, creativity, and design.
                 </div>
             </div>
         </div>
-        <div class="l1 flex  w-full h-full pb-3 bg-(--body)">
-            <div class="w-[90%] h-fit flex relative self-end ml-auto">
-                <div class="b1 w-[50%] flex flex-col space-y-10">
-                    <div class="tt text-[#5B51F1] text-6xl font-extrabold font-[DM_Sans]">About</div>
-                    <div class="desc text-white font-extralight text-2xl">Our project is an innovative platform designed specifically for college events. It allows event organizers to post details about their events, manage registrations, and sell tickets seamlessly. Students can easily browse upcoming events, book tickets, and stay updated on campus activities. With a user-friendly interface and secure transactions, our platform enhances event participation and fosters a more connected college community.</div>
-                    <div id="explore"></div>
+        <div class="pt-50 pb-30 inline-block w-full   bg-(--body) ">
+            <div class="sm:w-[95%] w-[90%]  sm:p-3  h-fit lg:flex lg:flex-row grid relative self-end ml-auto space-y-10 
+            space-x-20
+            ">
+                <div class="lg:w-[50%] w-full  sm:justify-center flex flex-col sm:space-y-10 space-y-5">
+                    <div class="tt text-[#5B51F1] lg:text-6xl sm:text-5xl text-4xl font-extrabold font-[DM_Sans]">About</div>
+                    <div class="desc  text-white font-extralight lg:text-2xl sm:text-[90%] w-full text-[10px]">Our project is an innovative platform designed specifically for college events. It allows event organizers to post details about their events, manage registrations, and sell tickets seamlessly. Students can easily browse upcoming events, book tickets, and stay updated on campus activities. With a user-friendly interface and secure transactions, our platform enhances event participation and fosters a more connected college community.</div>
+                    <div id="explore" class="sm:text-[100%] text-[20px sm:scale-100 scale-80 ml-auto mr-auto sm:ml-[0] sm:mr-[0]"></div>
                 </div>            
-                <div class="w-[50%] flex  justify-center">
+                <div class="lg:w-[50%]w-full  flex  justify-center">
                     <div id="about" class="w-[80%] flex h-full"></div>
                 </div>
             </div>
         </div>
         <div class="l1 flex w-full h-full flex-col space-y-10">
-            <div class="w-[95%] h-[20%] ml-auto text-white text-5xl flex items-end"><span>Upcoming Events</span></div>
-            <div class="flex w-full h-full bg-(--bg-c) justify-end">
-                <div class="w-[95%] h-full flex  items-center" id="cards"></div>
+            <div class="w-[95%] h-[20%] ml-auto text-white lg:text-5xl text-3xl flex items-end"><span>Upcoming Events</span></div>
+            <div class="overflow-hidden flex w-full h-full bg-(--bg-c) justify-center items-center">
+                <div class="sm:w-[95%] w-[100%] h-full flex justify-center sm:mt-20 items-center" id="cards"></div>
+            </div>
+        </div>
+        <div id="footer" class="flex w-full h-[130%] flex-col bg-white">
+            <div class="flex w-full h-[80%] mt-auto flex-col space-y-50">
+                <div class="flex w-full flex-col h-fit">
+                    <div class="flex w-full justify-center  text-center capitalize lg:text-[400%] sm:text-[300%] text-[300%] font-extrabold font-[Metropolis]">any query?</div>
+                    <div class="flex w-[full] justify-center">
+                        <div class="flex flex-col lg:w-[50%] w-[80%] h-fit justify-end">
+                            <div class="w-full grid grid-cols-[80%_10%] h-fit justify-center">
+                                <div class="flex items-center lg:text-[150%] text-[13   0%] capitalize font-normal font-[DM_Sans]">Enter email</div>
+                                <div class="flex justify-end">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="70%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mail"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+                                </div>
+                            </div>
+                            <div class="w-[92%] h-[1px] bg-(--body) ml-auto mr-auto"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex w-full flex-col h-full  bg-(--bg-c) justify-end">
+                    <div class="flex sm:flex-row flex-col-reverse relative w-full h-fit p-1 justify-center">
+                        <div class="sm:w-[95%] w-full  sm:text-[12px] sm:justify-end text-[8px] flex flex-col-reverse  lg:grid-cols-[70%_30%] lg:text-[100%] lg:flex-row">
+                            <div class="grid sm:m-5 mt-5 ">
+                                <div class="flex flex-col justify-end space-y-3">
+                                    <div class="font-light opacity-50">© TeamErrorFixes 2025
+                                    </div>
+                                    <div class="flex space-x-5 font-light">
+                                        <div class="h-fit">Cookies policy</div>
+                                        <div class="h-fit">Legal terms</div>
+                                        <div class="h-fit">Privacy Policy</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="sm:justify-end w-full  grid font-[Mont] space-y-5 h-fit">
+                                <div class="capitalize lg:text-3xl sm:text-[20px] text-[25px]  font-medium">Follow us</div>
+                                <div class="flex flex-wrap space-x-10  lg:text-xl sm:text-[15px] text-[15px] opacity-80 h-fit  ">
+                                    <div class="soc sm:m-2  mr-auto  h-fit">Instagram</div>
+                                    <div class="soc sm:m-2  mr-auto  h-fit">Discord</div>
+                                    <div class="soc sm:m-2  mr-auto  h-fit">Linkedin</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex flex-col absolute bg-[#6C63FF] sm:w-[70%] w-[90%] h-fit rounded-2xl right-[0] left-[0] mr-auto ml-auto sm:translate-y-[-110%] translate-y-[-210%] space-y-20">
+                        <div class="flex flex-col w-full text-white p-10 font-[Mont] space-y-2">
+                            <div class="k capitalize  font-light  sm:text-[170%] text-[90%]">did not register yet?</div>
+                            <div class="uppercase font-medium sm:text-[100%] text-[60%]">register yourselves now!</div>
+                            <div class="sm:translate-y-[0] translate-y-[10%] w-full flex justify-end">
+                                <a class="bg-(--body) sm:m-[0] mt-5 p-[10px] pr-2 pl-2 rounded-xl lg:text-[150%] text-[60%] no-underline cursor-pointer" href="/signup">Sign up</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
             </div>
         </div>
     </div>
