@@ -139,7 +139,7 @@ const SignupForm = () => {
           },
           }}
         />
-       <Button variant="contained"  style={{"background-color": "var(--bg-h)","margin-bottom": "10%" ,"padding": "10px","font-size":"150%","font-family":"DM Sans"}}
+       <Button variant="contained"  style={{"background-image": "var(--bg-h)","margin-bottom": "10%" ,"padding": "10px","font-size":"150%","font-family":"DM Sans"}}
        fullWidth type="submit"
        >
         Login
