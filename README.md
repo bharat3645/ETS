@@ -29,6 +29,17 @@ An authenticated website displaying all events and fests hosted by various colle
  <img  src='https://skillicons.dev/icons?i=html'>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>&nbsp;&nbsp;
 
+## Screenshots
+<img  src='https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/image-0.png'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src='https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/image-1.png'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src='https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/image-2.png'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src='https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/image-3.png'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src='https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/image-4.png'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src='https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/image-5.png'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src='https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/image-6.png'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src='https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/image-7.png'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src='https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/image-8.png'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src='https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/image-9.png'>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Lessons Learned
