@@ -2,6 +2,8 @@ import { Button, LinearProgress,TextField} from '@mui/material'
 import { fetchApiData } from "./helpers/http";
 import React from 'react';
 import "./css/login.css"
+import { ToastContainer, toast } from "react-toastify";
+
 import { useFormik } from 'formik';
 import * as yup from 'yup';
 const validationSchema = yup.object({
@@ -15,6 +17,24 @@ const validationSchema = yup.object({
   });
   
 const SignupForm = () => {
+   const toastId = React.useRef(null);
+   const notify = (msg,type)=>{
+      if(! toast.isActive(toastId.current)) {
+          switch(type){
+              case "error":{
+               toastId.current = toast.error(msg);
+                  break
+              }
+              case "warn":{
+                   toastId.current = toast.warn(msg);
+                  break
+              }
+              default:{
+              toastId.current = toast.info(msg);
+              }
+          }
+        }
+    }
    const formik = useFormik({
      initialValues: {
        id: '',
@@ -45,7 +65,7 @@ const SignupForm = () => {
        ).catch(
            (reason)=> {
                console.log(reason.response)
-               alert(reason.response.data.message,"error")
+               notify(reason.response.data.message,"error")
            }
        )
      }
