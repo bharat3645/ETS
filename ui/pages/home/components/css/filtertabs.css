@@ -1,6 +1,6 @@
 #filterclicked { 
     transition: all 2s ease-in-out;
-    background-color: var(--bg-e);
+    background-image: var(--bg-h);
     border-radius: 5px;
     color: var(--bg-c);
 }
