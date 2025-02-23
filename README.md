@@ -62,3 +62,7 @@ This platform simplifies event participation for students while making event org
 - [@TanishqSinghal](https://www.github.com/aka-shinu)
 - [@Aakash](https://www.github.com/aka-shinu)
 
+
+
+## License
+Distributed under the MIT License. See LICENSE.txt for more information.
