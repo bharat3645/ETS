@@ -1,6 +1,6 @@
 
 .tabClicked{
-    background-image: var(--bg-h);
+    background-color: var(--bg-e);
     color: white;
 }
 
