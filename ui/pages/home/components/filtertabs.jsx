@@ -28,7 +28,7 @@ class Tabs extends React.Component{
     }
     render(){
         return (
-            <div className={"w-full  h-fit  space-x-2 p-2 capitalize grid grid-cols-4 sm:grid-cols-[repeat(4,25%)] text-center sm:text-[100%] text-[80%]"}>
+            <div className={"w-full  h-fit  space-x-2 p-2 capitalize grid grid-cols-4 text-center sm:text-[100%] text-[80%]"}>
                 {
                     tabs.map(
                         (v,i)=>{
@@ -36,7 +36,7 @@ class Tabs extends React.Component{
                             if(i == this.state.on){
                                 id = "filterclicked"
                             }
-                            return <div className={"gg p-3 sm:p-2 cursor-pointer  f" + i} id={id} key={uuidv4()} onClick={
+                            return <div className={"gg p-3 sm:p-3 cursor-pointer  f" + i} id={id} key={uuidv4()} onClick={
                                   ()=>  this.onClick(i)
                             }>{v}</div>
                         }
