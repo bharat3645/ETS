@@ -139,7 +139,7 @@ function MainCards(props){
         var k = Object.values(rdata),r = []
         k.forEach(
             (v)=>{
-                var type = v.society_type, events = v.events
+                var type = v.society_type, events = [].concat(v.events)
                 events.reverse()
                 if((name != -1) && (name != v.name)) return 
                 r = r.concat(
