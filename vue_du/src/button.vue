@@ -3,7 +3,7 @@
     class="w-full h-full flex "
   >
     <div class="w-full h-full flex">
-      <GlassBorderButton class="z-10 bw"> <a href="/signup" class="!text-inherit !no-underline">Register now</a> </GlassBorderButton>
+      <GlassBorderButton class="z-10 bw"> Register now </GlassBorderButton>
     </div>
   </main>
 </template>
