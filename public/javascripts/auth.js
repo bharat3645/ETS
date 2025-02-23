@@ -13,12 +13,13 @@
                    document.getElementById("enroll").innerText = s.id
                } 
                catch{}
-
-                return (window.userData = res.user)
+                window.userData = res.user
+                if((location.pathname == "/login")) return (location.href = "/home")
+                      
+                return
                 
             }
-
-            location.href = "/login"
+             location.href = "/login"
         }
         )
     }

@@ -136,7 +136,7 @@ function SignUp(props) {
         />
       </div>
       <div className="error text-[red] font-light font-[DM_Sans]">{error}</div>
-      <button onClick={submit} className="w-[341px] h-[54px] rounded-md bgl text-white">
+      <button onClick={submit} className="cursor-pointer w-[341px] h-[54px] rounded-md bgl text-white">
         Register
       </button>
     </div>
