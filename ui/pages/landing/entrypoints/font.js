@@ -1,2 +1,2 @@
 
-import '@typehaus/metropolis';
+import '@fontsource/metropolis';
