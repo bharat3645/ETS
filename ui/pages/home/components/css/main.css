@@ -1,0 +1,4 @@
+.ghj:hover {
+    transform: scale(1.05);
+    transition: all .4s ease-in;    
+}

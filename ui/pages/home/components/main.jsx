@@ -7,6 +7,7 @@ import {Clock,MapPin} from "lucide-react";
 import Search from '../components/search.jsx';
 import TabNav from '../components/tabnav.jsx';
 import { ToastContainer, toast } from "react-toastify";
+import "./css/main.css"
 const isBooked = (title)=>{
     return fetchApiData("get", "isbooked", {
             headers: {
@@ -106,7 +107,7 @@ const genCard = (cat,title,desc,status,date,reg,adr = "College auditorium")=>{
         </div>
         <div className="w-full h-fit flex text-center">
            
-            <div className={"w-[50%] ml-auto p-2  text-center rounded-[10px] cursor-pointer " + ((status.toLowerCase()!="completed")? "bg-[#6C63FF]": "bg-(--completed) font-bold")} onClick={()=>{
+            <div className={"ghj w-[50%] ml-auto p-2  text-center rounded-[10px] cursor-pointer " + ((status.toLowerCase()!="completed")? "bg-[#6C63FF]": "bg-(--completed) font-bold")} onClick={()=>{
                  if (status.toLowerCase()!="completed") return book(title)
                 }}>{(status.toLowerCase()!="completed")? "Book now": "Completed"}</div>
         </div>
