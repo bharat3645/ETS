@@ -7,7 +7,7 @@
     "build": "webpack --mode development --config webpack.common.js --watch",
     "build-nowatch": "webpack --mode development --config webpack.common.js",
     "build-tailwind": "npx @tailwindcss/cli -i ./tw/global.css -o ./public/stylesheets/tw.css --watch",
-    "build-tailwind-nowatch": "npx @tailwindcss/cli -i ./tw/global.css -o ./public/stylesheets/tw.css ",
+    "": "npx @tailwindcss/cli -i ./tw/global.css -o ./public/stylesheets/tw.css ",
     "lint": "vue-cli-service lint",
     "eslint": "eslint ./",
     "eslint-fix": "eslint ./ --fix",
