@@ -58,8 +58,8 @@ This platform simplifies event participation for students while making event org
 ## Authors
 
 - [@aka-shinu](https://www.github.com/aka-shinu)
-- [@ArpitPrakash](https://www.github.com/aka-shinu)
-- [@TanishqSinghal](https://www.github.com/aka-shinu)
+- [@ArpitPrakash](https://www.github.com/arpit750)
+- [@TanishqSinghal](https://www.github.com/TanisqSinghal)
 - [@Aakash](https://www.github.com/aka-shinu)
 
 
