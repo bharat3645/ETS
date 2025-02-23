@@ -21,7 +21,7 @@ class TabNav extends React.Component{
         return <div className="flex whitespace-nowrap space-x-5 text-[90%]  bg-(--bg-c) p-3 font-[DM_Sans]">
             {
                 this.society.map((v,i)=>{
-                    return <span key={v4()} className={"cursor-pointer p-3 pl-10 pr-10 bg-white rounded-2xl" + ((this.state.tab == i) ? " tabClicked":"")} onClick={()=>{this.onClick(i)}}>{v}</span>
+                    return <span key={uuidv4()} className={"cursor-pointer p-3 pl-10 pr-10 bg-white rounded-2xl" + ((this.state.tab == i) ? " tabClicked":"")} onClick={()=>{this.onClick(i)}}>{v}</span>
                 })
             }
         </div>

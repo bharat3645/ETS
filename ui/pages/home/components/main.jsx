@@ -70,7 +70,7 @@ const book = (title)=>{
 }
 const genCard = (cat,title,desc,status,date,reg,adr = "College auditorium")=>{
     return  (
-   <div key={v4()} className="flex-col w-80 h-fit border border-black p-4 rounded-2xl bg-(--bg-e) text-white">
+   <div key={uuidv4()} className="flex-col w-80 h-fit border border-black p-4 rounded-2xl bg-(--bg-e) text-white">
     {
               <ToastContainer
                 position="top-right"

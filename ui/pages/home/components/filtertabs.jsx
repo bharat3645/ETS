@@ -36,7 +36,7 @@ class Tabs extends React.Component{
                             if(i == this.state.on){
                                 id = "filterclicked"
                             }
-                            return <div key={v4()} className={"gg p-3 sm:p-3 cursor-pointer  f" + i} id={id}  onClick={
+                            return <div key={uuidv4()} className={"gg p-3 sm:p-3 cursor-pointer  f" + i} id={id}  onClick={
                                   ()=>  this.onClick(i)
                             }>{v}</div>
                         }
