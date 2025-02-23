@@ -128,7 +128,7 @@ function SignUp(props) {
         />
         <input
           className="w-[341px] h-[57px] rounded-md bg-[#F0EFFF] placeholder:text-[#A7A3FF] pl-6"
-          type="text"
+          type="password"
           name='cpassword'
           placeholder="Confirm Password"
           onChange={handleCpass}
