@@ -106,7 +106,7 @@ const genCard = (cat,title,desc,status,date,reg,adr = "College auditorium")=>{
         </div>
         <div className="w-full h-fit flex text-center">
            
-            <div className={"w-[50%] ml-auto p-2  text-center rounded-[10px] cursor-pointer " + ((status.toLowerCase()!="completed")? "bg-(--bg-h)": "bg-(--completed) font-bold")} onClick={()=>{
+            <div className={"w-[50%] ml-auto p-2  text-center rounded-[10px] cursor-pointer " + ((status.toLowerCase()!="completed")? "bgl": "bg-(--completed) font-bold")} onClick={()=>{
                  if (status.toLowerCase()!="completed") return book(title)
                 }}>{(status.toLowerCase()!="completed")? "Book now": "Completed"}</div>
         </div>

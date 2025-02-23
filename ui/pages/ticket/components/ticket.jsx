@@ -37,7 +37,7 @@ function Ticket(props){
                                     <span>{i.date}</span>
                                     <span>{i.time}</span>
                                 </div>
-                                <span  className="ml-auto sm:text-[100%] text-[15px] p-2 bg-(--bg-h)"><a href={"/ticket?token=" + h}>View more</a></span>
+                                <span  className="ml-auto sm:text-[100%] text-[15px] p-2 bgl"><a href={"/ticket?token=" + h}>View more</a></span>
                             </div>
                         </div>
                     </div>
