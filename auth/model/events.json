@@ -1,1 +1,83 @@
-{"2":{"1":{"id":1,"name":2,"time":3,"date":4,"adr":5}},"Competition 19":{"sender.mail":{"id":"sender.mail","name":"Competition 19","time":"7, 25 pm","date":"2024-12-02","adr":"College auditorium"}},"Networking Event 14":{"sender.mail":{"id":"sender.mail","name":"Networking Event 14","time":"10, 11 pm","date":"2024-09-11","adr":"College auditorium"}},"Hackathon 22":{"sender.mail":{"id":"sender.mail","name":"Hackathon 22","time":"4, 5 pm","date":"2024-05-15","adr":"College auditorium"}},"Hackathon 23":{"03215611924":{"id":"03215611924","name":"Hackathon 23","time":"9, 49 pm","date":"2025-02-20","adr":"College auditorium"}},"Tech Talk 3":{"03215611924":{"id":"03215611924","name":"Tech Talk 3","time":"11, 38 pm","date":"2024-11-04","adr":"College auditorium"}},"Seminar 5":{"03215611924":{"id":"03215611924","name":"Seminar 5","time":"9, 24 pm","date":"2024-09-04","adr":"College auditorium"}},"Networking Event 6":{"03215611924":{"id":"03215611924","name":"Networking Event 6","time":"9, 51 pm","date":"2025-02-18","adr":"College auditorium"}},"Seminar 14":{"03215611924":{"id":"03215611924","name":"Seminar 14","time":"12, 35 pm","date":"2025-02-19","adr":"College auditorium"}},"Tech Talk 23":{"03215611924":{"id":"03215611924","name":"Tech Talk 23","time":"3, 54 pm","date":"2025-02-18","adr":"College auditorium"}}}
+{
+  "Competition 19": {
+    "sender.mail": {
+      "id": "sender.mail",
+      "name": "Competition 19",
+      "time": "7:25 pm",
+      "date": "2024-12-02",
+      "adr": "College auditorium"
+    }
+  },
+  "Networking Event 14": {
+    "sender.mail": {
+      "id": "sender.mail",
+      "name": "Networking Event 14",
+      "time": "10:11 pm",
+      "date": "2024-09-11",
+      "adr": "College auditorium"
+    }
+  },
+  "Hackathon 22": {
+    "sender.mail": {
+      "id": "sender.mail",
+      "name": "Hackathon 22",
+      "time": "4:5 pm",
+      "date": "2024-05-15",
+      "adr": "College auditorium"
+    }
+  },
+  "Hackathon 23": {
+    "03215611924": {
+      "id": "03215611924",
+      "name": "Hackathon 23",
+      "time": "9:49 pm",
+      "date": "2025-02-20",
+      "adr": "College auditorium"
+    }
+  },
+  "Tech Talk 3": {
+    "03215611924": {
+      "id": "03215611924",
+      "name": "Tech Talk 3",
+      "time": "11:38 pm",
+      "date": "2024-11-04",
+      "adr": "College auditorium"
+    }
+  },
+  "Seminar 5": {
+    "03215611924": {
+      "id": "03215611924",
+      "name": "Seminar 5",
+      "time": "9:24 pm",
+      "date": "2024-09-04",
+      "adr": "College auditorium"
+    }
+  },
+  "Networking Event 6": {
+    "03215611924": {
+      "id": "03215611924",
+      "name": "Networking Event 6",
+      "time": "9:51 pm",
+      "date": "2025-02-18",
+      "adr": "College auditorium"
+    }
+  },
+  "Seminar 14": {
+    "03215611924": {
+      "id": "03215611924",
+      "name": "Seminar 14",
+      "time": "12:35 pm",
+      "date": "2025-02-19",
+      "adr": "College auditorium"
+    }
+  },
+  "Tech Talk 23": {
+    "03215611924": {
+      "id": "03215611924",
+      "name": "Tech Talk 23",
+      "time": "3:54 pm",
+      "date": "2025-02-18",
+      "adr": "College auditorium"
+    }
+  }
+}
