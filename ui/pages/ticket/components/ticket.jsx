@@ -14,7 +14,7 @@ function Ticket(props){
                 id: (window.userData?.id ?? (setRetry(!retry)))
             }
     }).then(
-        res => setBookings(res.data.bookings)
+        res => {res.data.bookings.reverse();return setBookings(res.data.bookings)}
     )
     }, [retry])    
     return (

@@ -5,7 +5,7 @@ import VisibilitySensor from 'react-visibility-sensor';
 
 const card = (type,title,desc,reg,date,i) => {
     return (
-        <div className="flex flex-col h-fit w-full p-2     bg-white rounded-2xl origin-center " id={"card" + i}>
+        <div className="flex flex-col h-fit w-full  p-2     bg-white rounded-2xl origin-center " id={"card" + i}>
             <div className="flex flex-col w-full h-full  space-y-10" >
                 <div className="flex flex-col w-full h-fit space-y-5">
                     <div className="type text-(--bg-h) capitalize text-2xl">{type}</div>
@@ -117,7 +117,7 @@ function Animations(p){
         return animations
     }
     return (
-        <div className="xl:flex xl:flex-row flex-col overflow-hidden xl:w-full w-[95%] h-full space-x-25 space-y-30  xl:items-start items-center mt-10  xl:m-[0] ml-auto mr-auto" id='cc'>
+        <div className="xl:flex xl:flex-row flex-col overflow-hidden xl:w-full w-[95%] h-full  space-x-25 space-y-30  xl:items-start items-center mt-10  xl:m-[0] ml-auto mr-auto" id='cc'>
             {
                     data.map((v,i)=>{
                         return card(v[0],v[1],v[2],v[3],v[4],i)
