@@ -22,7 +22,7 @@ const SignupForm = () => {
       if(! toast.isActive(toastId.current)) {
           switch(type){
               case "error":{
-               toastId.current = toast.error(msg);
+                toastId.current = toast.error(msg);
                   break
               }
               case "warn":{
@@ -71,6 +71,17 @@ const SignupForm = () => {
      }
    return (
      <form onSubmit={formik.handleSubmit}>
+                <ToastContainer
+                  position="top-right"
+                  autoClose={5000}
+                  hideProgressBar={true}
+                  newestOnTop={true}
+                  rtl={false}
+                  pauseOnFocusLoss
+                  draggable
+                  pauseOnHover
+                  theme="light"
+                />
        <TextField
           fullWidth
           id="id"
