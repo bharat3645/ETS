@@ -5,6 +5,8 @@ import "./css/search.css"
 class SearchBox extends React.Component{
     constructor(props){
         super(props)
+        this.onChange = props.onChange || function(){}
+        this.ref = React.createRef(null)
         this.placeholder = props.placeholder || "Searching events?"
     }
     render(){
@@ -14,7 +16,7 @@ class SearchBox extends React.Component{
             <div className="sicon flex items-center justify-center w-[80%]">
                 <Search color="#5F6F65" size={30}/>
             </div>
-            <input className="w-[80%]" id="search" type="text" placeholder={this.placeholder} />
+            <input className="w-[80%]" id="search" type="text" ref={this.ref} placeholder={this.placeholder} onChange={()=> this.onChange(this.ref)}/>
           </div>
         </div>
     </div>

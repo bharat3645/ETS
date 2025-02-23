@@ -6,13 +6,15 @@
     <title>Ticket</title>
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     <script src="javascripts/global.js"></script>
+    <script src="javascripts/auth.js"></script>
+    <script src="javascripts/ticket.js"></script>
     <link rel="stylesheet" href="stylesheets/tw.css">
     <link rel="stylesheet" href="stylesheets/style.css">
     <link rel="stylesheet" href="stylesheets/fonts.css">
 </head>
 <body>
-    <div id="root" class="box-border flex items-center justify-center bg-(--bg-h) whitespace-nowrap !font-[Anuphan]">
-        <div class="w-[700px] h-[300px] bg-(--bg-c) grid grid-cols-[15%_85%]">
+    <div id="root" class="!overflow-x-auto box-border flex items-center lg:justify-center bg-(--bg-h) whitespace-nowrap !font-[Anuphan]">
+        <div class="w-[800px] h-[300px] bg-(--bg-c) grid grid-cols-[10%_90%]">
             <div class="w-full h-full flex justify-center items-center  bg-(--body)"><div class="font-[Anuphan] font-light text-white text-[20px] -rotate-90 uppercase flex space-x-4">
                 <span>On</span>
                 <span>Time</span>
@@ -20,29 +22,29 @@
             </div></div>
             <div class="flex">
                 <div class="w-fit  h-fit flex p-10 flex-col">
-                    <div class="tt text-[30px] font-black ">Name</div>
+                    <div class="tt text-[30px] font-black " id="title"></div>
                     <div class="grid grid-cols-[auto_auto_auto] space-x-8">
                         <div class="flex flex-col">
                             <div class="text-[90%] font-medium">Name</div>
-                            <div class="w-fit p-3 bg-[#d9e3e7] text-[110%] font-regular">Anmol</div>
+                            <div class="w-fit p-3 bg-[#d9e3e7] text-[110%] font-regular" id="name"></div>
                         </div>
                         <div class="flex flex-col">
                             <div class="text-[90%] font-medium">Date</div>
-                            <div class="w-fit p-3 bg-[#d9e3e7] text-[110%] font-regular">09-08-2024</div>
+                            <div class="w-fit p-3 bg-[#d9e3e7] text-[110%] font-regular" id="date">09-08-2024</div>
                         </div>
                         <div class="flex flex-col">
                             <div class="text-[90%] font-medium">Time</div>
-                            <div class="w-fit p-3 bg-[#d9e3e7] text-[110%] font-regular">1:30 P.M</div>
+                            <div class="w-fit p-3 bg-[#d9e3e7] text-[110%] font-regular" id="time">1:30 P.M</div>
                         </div>
                     </div>
                     <div class="flex flex-col w-full mt-4">
                             <div class="text-[90%] font-medium">Event Address</div>
-                            <div class="w-fit p-3 bg-[#d9e3e7] text-[110%] font-regular">5 Morris Rd. Long Beach, NY 11561
+                            <div class="w-fit p-3 bg-[#d9e3e7] text-[110%] font-regular" id="adr">5 Morris Rd. Long Beach, NY 11561
                             </div>
                     </div>
                 </div>
-                <div class="w-full p-5 flex items-center justify-center h-full border-l-5 border-dashed border-[#d0d6e1]">
-                    <img  src="data:image/png;base64,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" alt="">
+                <div class="w-full p-4 flex items-center justify-center h-full border-l-5 border-dashed border-[#d0d6e1]">
+                    <img  id="img" width="500px" src=""  alt="">
                 </div>
             </div>
         </div>

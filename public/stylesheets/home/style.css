@@ -2,15 +2,41 @@ body {
     margin: 0;
     padding: 0;
     user-select: none;
+    overflow-x: hidden;
 }
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #666;
+    border-radius: 20px;
+  }
+  
+::-webkit-scrollbar-track {
+    background: #ddd;
+    border-radius: 20px;
+  }
+
+.soc{
+    display: grid;
+    grid-template-columns: 90% 10%;
+  }
+.soc:after{
+    width: 60%;
+    height: 60%;
+    transform: scale(.7) translateY(-5%);
+    content: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1vdmUtdXAtcmlnaHQiPjxwYXRoIGQ9Ik0xMyA1SDE5VjExIi8+PHBhdGggZD0iTTE5IDVMNSAxOSIvPjwvc3ZnPg==");
+  }
 :root{
     --body: rgb(11, 10, 26);
     --bg-h: #5B51F1; 
     --bg-c: #F3F3F3;
     --bg-d: #f5f7f7;
-    --ongoing: #ED8080;
+    --completed: #ED8080;
     --upcoming: #f3c460;
-    --completed: #80ED99;
+    --ongoing: #80ED99;
     --bg-e: rgb(31,29,53);
     --bg-f: rgb(31,29,53);
   }
@@ -22,8 +48,4 @@ body {
 }
 .completed{
     color: var(--completed);
-}
-
-::-webkit-scrollbar{
-    width: 0;
 }

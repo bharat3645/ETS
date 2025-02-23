@@ -16,14 +16,16 @@ class Event{
         this.time = time
         this.date = date
         this.adr = adr
+        this.token = null
         this.payload = {
             id: this.id,
             name: this.name,
             time: this.time,
             date:this.date,
-            adr: this.adr
+            adr: this.adr,
         }
     }
+    
     book(){
         var d  = this.read(),j
         d[this.name] = (j = (d[this.name] ?? {}),create_dict([this.id, this.payload]))

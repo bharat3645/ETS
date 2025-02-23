@@ -30,7 +30,7 @@ module.exports = {
          } 
         })  
       }
-  ),jj("vuedist", "vue_du/src"),jj("globals", "global_helpers"),
+  ),jj("vuedist", "vue_du/src"),
     k),
   devServer: {
     hot: true,

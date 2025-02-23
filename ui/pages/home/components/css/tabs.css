@@ -1,4 +1,22 @@
+
 .tabClicked{
     background-color: var(--bg-h);
     color: white;
 }
+
+
+.tabnav::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+   
+/* .tabnav::-webkit-scrollbar-thumb {
+    background: #666;
+    border-radius: 20px;
+  }
+  
+.tabnav::-webkit-scrollbar-track {
+    background: #ddd;
+    border-radius: 20px;
+  }
+ */

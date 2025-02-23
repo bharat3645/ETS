@@ -2,11 +2,10 @@
 import React,{useState,useEffect} from "react"
 import {fetchApiData} from "./helpers/http"
 import Ftabs from "./filtertabs"
-import {Clock} from "lucide-react";
+import {Clock,MapPin} from "lucide-react";
 import Search from '../components/search.jsx';
 import TabNav from '../components/tabnav.jsx';
-var i =0
-
+import { ToastContainer, toast } from "react-toastify";
 const isBooked = (title)=>{
     return fetchApiData("get", "isbooked", {
             headers: {
@@ -19,12 +18,24 @@ const isBooked = (title)=>{
         }
     })
 }
+const notify = (msg,type)=>{
+        switch(type){
+            case "error":{
+             toast.error(msg);
+                break
+            }
+            case "warn":{
+                 toast.warn(msg);
+                break
+            }
+            default:{
+            toast.info(msg);
+            }
+        }
+  }
 
 const book = (title)=>{
-    isBooked(title).then(
-        res => {
-           var _ = res.data
-           if (_.success == false){
+    
              fetchApiData(
                 "get",
                 "event/" + title,
@@ -44,23 +55,34 @@ const book = (title)=>{
                     },
                         data: {
                             name: h.event_title,
-                            id: window.userData.name,
+                            id: window.userData.id,
                             time:h.time,
                             adr: h.adr,
-                            date:h.date
+                            date:h.date,
                         }
                 }
                      ).then(
-                        (res)=>console.log(res.data)
+                        (res)=>notify(res.data.message, res.data.success?"info":"error")
                      )
                 }
              )
-           } 
-        }
-    )
 }
-const genCard = (cat,title,desc,status,date,reg)=>{
-    return  <div className="flex flex-col w-80 h-fit border border-black p-4 rounded-2xl bg-(--bg-e) text-white">
+const genCard = (cat,title,desc,status,date,reg,adr = "College auditorium")=>{
+    return  (
+   <div className="flex-col w-80 h-fit border border-black p-4 rounded-2xl bg-(--bg-e) text-white">
+    {
+              <ToastContainer
+                position="top-right"
+                autoClose={5000}
+                hideProgressBar={true}
+                newestOnTop={true}
+                rtl={false}
+                pauseOnFocusLoss
+                draggable
+                pauseOnHover
+                theme="light"
+              />
+    }
     <div className="flex w-full h-fit">
         <div className="title font-[DM_Sans] text-(--bg-c) opacity-70">{cat}</div>
         <div className={`ml-auto ${status.toLowerCase()} w-fit rounded-2xl font-[DM_Sans] font-[800] text-[70%] capitalize`}>
@@ -72,23 +94,29 @@ const genCard = (cat,title,desc,status,date,reg)=>{
         <div className="text-[70%] opacity-70 font-light">{desc}</div>
         <div className="flex h-fit text-[70%] space-x-5 justify-center whitespace-nowrap">
             <div className="flex h-fit mt-auto mb-auto space-x-20 items-center">
-                <div className="flex flex-col text-xl font-bold space-y-1"><span className="font-bold">{<Clock/>}</span><span className="font-light text-center">12th feb</span></div>
+                <div className="flex flex-col text-xl font-bold space-y-1"><span className="font-bold">{<Clock/>}</span><span className="font-light text-center text-[90%]">{date}</span></div>
                 <div className="flex flex-col text-center"><span className="text-xl font-bold">{reg}+</span><span className="font-light tracking-[4px] text-center text-[150%]">Regisration</span></div>
             </div>
         </div>
-        <div className="w-full h-fit grid grid-cols-[50%_50%] space-x-5 text-center">
-            <div className="p-2 whitespace-nowrap border">
-                View More
+        <div className="flex h-fit text-[70%] space-x-5 justify-center whitespace-nowrap">
+            <div className="flex w-full h-fit mt-auto mb-auto space-x-20 items-center justify-center">
+                <div className="w-full justify-center flex space-x-5 text-xl font-bold space-y-1"><span className="font-bold">{<MapPin/>}</span><span className="font-light text-center">{adr}</span></div>
             </div>
-            <div className="p-2 bg-(--bg-h) text-center rounded-[10px] cursor-pointer" onClick={()=>{book(title)}}>Book now</div>
+        </div>
+        <div className="w-full h-fit flex text-center">
+           
+            <div className={"w-[50%] ml-auto p-2  text-center rounded-[10px] cursor-pointer " + ((status.toLowerCase()!="completed")? "bg-(--bg-h)": "bg-(--completed) font-bold")} onClick={()=>{
+                 if (status.toLowerCase()!="completed") return book(title)
+                }}>{(status.toLowerCase()!="completed")? "Book now": "Completed"}</div>
         </div>
     </div>
-</div>
+</div>)
 }
 
 
 function MainCards(props){
    const [status,setStatus] = useState(-1)
+   const [tity,setTity] = useState(-1)
    const [name,setName] = useState(-1)
    const [data,setData] = useState({})
    const [rdata,setrData] = useState({})
@@ -112,11 +140,13 @@ function MainCards(props){
             (v)=>{
                 var type = v.society_type, events = v.events
                 if((name != -1) && (name != v.name)) return 
+                events.reverse()
                 r = r.concat(
                     events.map(
                         (_)=>{
                             if((status != -1) && (status != _.status.toLowerCase())) return 
-                             return  genCard(type,_.event_title,_.desc,_.status,"12th feb",_.eventRegistrations)
+                            if((tity != -1) && !(_.event_title.toLowerCase().includes(tity.toLowerCase()))) return 
+                             return  genCard(type,_.event_title,_.desc,_.status,_.date,_.eventRegistrations)
                         }
                     )
                 )
@@ -125,24 +155,28 @@ function MainCards(props){
         console.log(r)
         setRend(r)
     },
-    [rdata,status,name]
+    [rdata,status,name,tity]
    )
+   const onSearchChange  = (r)=>{
+    console.log(r.current.value)
+        setTity((r.current.value.length != 0 )? r.current.value: -1)
+   }
    return   (Object.keys(rdata).length != 0 ?
-    (<div className="w-full h-full grid">
-            <div className="tabnav w-full overflow-x-scroll overflow-y-hidden flex items-center">
+    (<div className=" w-full h-full grid">
+            <div className="tabnav scrollbar-none w-full overflow-x-scroll overflow-y-hidden flex items-center">
                 {(<TabNav data={Object.keys(data)} onChange={setName}/>)}
             </div>
-            <div className="w-full h-fit flex mb-4">
+            <div className="w-full h-fit flex mb-4 mt-4">
                     <div className="sb w-[98%] h-fit flex">
-                        <div id="searchbox" className="flex ml-auto  w-[95%] sm:w-[50%] h-fit rounded-[20px] border-2 border-black p-1 mr-auto">{<Search placeholder="Search society"/>}</div>
+                        <div id="searchbox" className="flex ml-auto  w-[95%] sm:w-[50%] h-fit rounded-[20px] border-2 border-black p-1 mr-auto">{<Search placeholder="Search society" onChange={onSearchChange}/>}</div>
                     </div>
             </div>
-            <div className="w-full h-fit flex border-t border-t-(--bg-f)">
+            <div className="w-full h-fit flex">
                 <div className="flex w-fit ">
                     <div className="lg:pl-20 w-fit rounded-r-[20px] top-1 relative ">{<Ftabs onChange={setStatus}/>}</div>
                 </div>
             </div>
-            <div className="flex flex-wrap pt-10 sm:p-10 space-x-5 space-y-10 justify-center" id="mc">{rendering}</div>
+            <div className="scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar scrollbar-thumb-slate-700 scrollbar-track-slate-300 overflow-y-auto overflow-x-hidden flex flex-wrap pt-10 sm:p-10 space-x-5 space-y-10 justify-center" id="mc">{rendering}</div>
     </div>) : ""
    )
    

@@ -20,5 +20,9 @@ router.get("/tos", function(req,res,next) {
   res.render("policy")
 })
 
+router.get("/get-tickets", function(req,res,next) {
+  res.render("ticker")
+})
+
 
 module.exports = router;

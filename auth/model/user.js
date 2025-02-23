@@ -16,17 +16,26 @@ class UserModel{
         this.phone = phone
         this.name = name
         this.branch = branch
+    }
+    signUp(){
         this.payload = {
             id: this.id,
             password: this.password,
             name: this.name,
             phone:this.phone,
-            branch: this.branch
+            branch: this.branch,
+            bookings: [],
         }
-    }
-    signUp(){
         var d  = this.read()
         d = Object.assign(d, create_dict([this.id, this.payload]))
+        fs.writeFileSync(p, JSON.stringify(d), "utf8");
+    }
+    updateBooking(token,payload){
+        var d  = this.read()
+        console.log(this.id)
+        console.log(d[this.id])
+        var k = (d[this.id]?.bookings ?? (d[this.id]['bookings'] = []))
+        d[this.id]['bookings'] = k.concat(create_dict([token,payload]))
         fs.writeFileSync(p, JSON.stringify(d), "utf8");
     }
     read(){

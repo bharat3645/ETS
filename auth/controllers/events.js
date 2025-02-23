@@ -1,19 +1,22 @@
 const EventModel = require("../model/events");
 const {createToken} = require('../tokens');
+const UserModel = require("../model/user");
 
 const book  = (req,res) => {
     const { name, id, time,date, adr} = req.body;
     const event = new EventModel(id,name,time,date, adr);
     if (event.find()) {
-        return res.status(409)
-            .json({ message: 'Already booked', success: false});
+        return res.json({ message: 'Already booked', success: false});
     }
+    event.token = createToken(event.payload, process.env.BOOKJWT_SECRET)
+    var user = new UserModel(id)
+    user.updateBooking(event.token,event.payload)
     event.book()
         res.status(201)
             .json({
                 message: "Booking successfull",
                 success: true,
-                token: createToken(event.payload,process.env.BOOKJWT_SECRET)
+                token: event.token
     })
 }
 const isBooked = (req,res)=>{
@@ -24,8 +27,10 @@ const isBooked = (req,res)=>{
     }
     return res.json({message: "Book now", success:false})
 }
+const getBookings = (id)=> new UserModel(id).find()['bookings']
 
 module.exports  = {
     book,
-    isBooked
+    isBooked,
+    getBookings
 }

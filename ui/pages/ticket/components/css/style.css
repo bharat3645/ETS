@@ -1,0 +1,9 @@
+:root{
+    --body: rgb(9, 8, 20);
+    --bg-h: #5B51F1; 
+    --bg-c: #F3F3F3;
+  }
+
+a{
+    text-decoration: none;
+}
