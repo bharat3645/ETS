@@ -15,11 +15,10 @@
                catch{}
                 window.userData = res.user
                 if((location.pathname == "/login")) return (location.href = "/home")
-                      
                 return
                 
             }
-             location.href = "/login"
+            if(!(location.pathname == "/login")) location.href = "/login"
         }
         )
     }
