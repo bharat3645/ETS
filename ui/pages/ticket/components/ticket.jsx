@@ -1,6 +1,7 @@
 import React,{useState,useEffect} from "react"
 import {fetchApiData} from "./helpers/http"
-import "./css/style.css"
+import "./css/style.css";
+import { v4 as uuidv4 } from 'uuid';
 
 function Ticket(props){
     const [bookings,setBookings] = useState([])
@@ -23,7 +24,7 @@ function Ticket(props){
                 (v,_)=>{
                     console.log(v) 
                     var h = Object.keys(v)[0], i =Object.values(v)[0]
-                    return <div className="w-full bg-(--body) grid grid-cols-[10%_90%] p-5 space-x-5 rounded-2xl">
+                    return <div key={v4()} className="w-full bg-(--body) grid grid-cols-[10%_90%] p-5 space-x-5 rounded-2xl">
                         <div className="flex sm:text-center sm:items-center   justify-center lg:text-xl md:text-[110%] text-[90%] ">#{_+1}</div>
                         <div className="w-full flex-col grid">
                             <div className="w-full flex lg:text-3xl md:text-[150%] sm:text-[130%] text-[20px] font-medium">{i.name}</div>

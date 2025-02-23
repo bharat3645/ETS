@@ -2,10 +2,11 @@ import React from "react";
 import anime from 'animejs/lib/anime.es.js';
 import {Clock} from "lucide-react";
 import VisibilitySensor from 'react-visibility-sensor';
+import { v4 as uuidv4 } from 'uuid';
 
 const card = (type,title,desc,reg,date,i) => {
     return (
-        <div className="flex flex-col h-fit w-full  p-2     bg-white rounded-2xl origin-center " id={"card" + i}>
+        <div key={v4()} className="flex flex-col h-fit w-full  p-2     bg-white rounded-2xl origin-center " id={"card" + i}>
             <div className="flex flex-col w-full h-full  space-y-10" >
                 <div className="flex flex-col w-full h-fit space-y-5">
                     <div className="type text-(--bg-h) capitalize text-2xl">{type}</div>

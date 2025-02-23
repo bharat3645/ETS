@@ -1,5 +1,6 @@
 
 import React,{useState,useEffect} from "react"
+import { v4 as uuidv4 } from 'uuid';
 import {fetchApiData} from "./helpers/http"
 import Ftabs from "./filtertabs"
 import {Clock,MapPin} from "lucide-react";
@@ -69,7 +70,7 @@ const book = (title)=>{
 }
 const genCard = (cat,title,desc,status,date,reg,adr = "College auditorium")=>{
     return  (
-   <div className="flex-col w-80 h-fit border border-black p-4 rounded-2xl bg-(--bg-e) text-white">
+   <div key={v4()} className="flex-col w-80 h-fit border border-black p-4 rounded-2xl bg-(--bg-e) text-white">
     {
               <ToastContainer
                 position="top-right"

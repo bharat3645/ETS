@@ -1,6 +1,6 @@
 :root{
     --body: rgb(9, 8, 20);
-    --bg-h: #5B51F1; 
+    --bg-h: linear-gradient(to right top, #0d1121, #0e1830, #0e1d40, #0c2350, #0a2961, #1c3572, #2b4184, #394d96, #5464ad, #6e7cc4, #8995db, #a3aff3); 
     --bg-c: #F3F3F3;
   }
 
