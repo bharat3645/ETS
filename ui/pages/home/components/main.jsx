@@ -140,8 +140,8 @@ function MainCards(props){
         k.forEach(
             (v)=>{
                 var type = v.society_type, events = v.events
-                if((name != -1) && (name != v.name)) return 
                 events.reverse()
+                if((name != -1) && (name != v.name)) return 
                 r = r.concat(
                     events.map(
                         (_)=>{
