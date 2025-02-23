@@ -5,13 +5,16 @@
 
 
 #  Event Ticketing System (ETS)
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center"> 
+<img src="https://raw.githubusercontent.com//aka-shinu/DUHACKS4.0/master/assets/preview.gif" width="500" >
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <div align='center'>
 <span><a href='https://event.lethrach.me'>LIVE DEMO</a></span>
 </div>&nbsp;
 
 An authenticated website displaying all events and fests hosted by various college/university societies and organizers, allowing students to register and get tickets for the same
-
 
 
 <div style='width: 400px'>
