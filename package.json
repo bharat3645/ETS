@@ -5,9 +5,9 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "webpack --mode development --config webpack.common.js --watch",
-    "build-nowatch": "webpack --mode development --config webpack.common.js",
+    "build-nowatch": "webpack --mode production --config webpack.common.js",
     "build-tailwind": "npx @tailwindcss/cli -i ./tw/global.css -o ./public/stylesheets/tw.css --watch",
-    "": "npx @tailwindcss/cli -i ./tw/global.css -o ./public/stylesheets/tw.css ",
+    "build-tailwind-nowatch": "npx @tailwindcss/cli -i ./tw/global.css -o ./public/stylesheets/tw.css ",
     "lint": "vue-cli-service lint",
     "eslint": "eslint ./",
     "eslint-fix": "eslint ./ --fix",
