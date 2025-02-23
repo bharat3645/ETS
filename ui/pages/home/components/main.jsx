@@ -169,7 +169,7 @@ function MainCards(props){
             </div>
             <div className="w-full h-fit flex mb-4 mt-4">
                     <div className="sb w-[98%] h-fit flex">
-                        <div id="searchbox" className="flex ml-auto  w-[95%] sm:w-[50%] h-fit rounded-[20px] border-2 border-black p-1 mr-auto">{<Search placeholder="Search society" onChange={onSearchChange}/>}</div>
+                        <div id="searchbox" className="flex ml-auto  w-[95%] sm:w-[50%] h-fit rounded-[20px] border-2 border-black p-1 mr-auto">{<Search placeholder="Search event" onChange={onSearchChange}/>}</div>
                     </div>
             </div>
             <div className="w-full h-fit flex">
