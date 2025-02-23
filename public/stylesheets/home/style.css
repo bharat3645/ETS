@@ -49,3 +49,6 @@ body {
 .completed{
     color: var(--completed);
 }
+a {
+  text-decoration: none !important;
+}
