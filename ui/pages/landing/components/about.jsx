@@ -3,7 +3,7 @@ import CountUp from 'react-countup';
 import VisibilitySensor from 'react-visibility-sensor';
 
 const Polygon_7 = (props) => (
-    <video  class='sm:w-[320px] sm:h-[240px] w-full' autoPlay loop muted>
+    <video  className='sm:w-[320px] sm:h-[240px] w-full' autoPlay loop muted>
     <source src="/assets/mp4/orb.mp4" type="video/mp4" />
     </video>
 );
