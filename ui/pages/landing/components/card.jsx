@@ -12,7 +12,7 @@ const card = (type,title,desc,reg,date,i) => {
                     <div className="type text-(--bg-h) capitalize text-2xl">{type}</div>
                     <div className="flex flex-col w-full h-fit space-y-4">
                         <div className="title sm:text-4xl text-xl font-bold text-black">{title}</div>
-                        <div className="desc sm:text-[60%] text-[10px] opacity-70 text-black">{desc}</div>
+                        <div className="desc sm:text-[75%] text-[10px] opacity-70 text-black">{desc}</div>
                     </div>
                 </div>
                 <div className="flex w-full h-fit text-center text-2xl justify-center font-extrabold text-(--bg-h) opacity-70">
