@@ -15,14 +15,14 @@ const card = (type,title,desc,reg,date,i) => {
                         <div className="desc sm:text-[75%] text-[10px] opacity-70 text-black">{desc}</div>
                     </div>
                 </div>
-                <div className="flex w-full h-fit text-center text-2xl justify-center font-extrabold text-[#6C63FF] opacity-70">
+                <div className="flex w-full h-fit text-center text-2xl justify-center font-black text-[#6C63FF] opacity-70">
                     <span>{reg}+ Registrations</span>
                 </div>
                 <div className="book grid grid-cols-[50%_50%]">
                     <div className="flex whitespace-nowrap">
                         <div className="w-[70%] text-center p-[10px] bgl text-white font-medium"><a className="!text-white" href='/home'>Book now</a></div>
                     </div>
-                    <div className="flex justify-end items-center text-xl text-[#6C63FF] space-x-2">
+                    <div className="flex justify-end items-center text-xl text-(--body) space-x-2">
                         {<Clock/>}
                         <div className='h-fit'>{date}</div>
                     </div>
@@ -40,7 +40,7 @@ function Animations(p){
         duration: p.duration || 2000,
         loop:true,
         // direction: "reverse",
-        delay: 1000,
+        delay: 2000,
         // easing: function(el, i, total) {
         //     return function(t) {
         //       return Math.pow(Math.sin(t * (i + 1)), total);
