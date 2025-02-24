@@ -20,7 +20,7 @@ const card = (type,title,desc,reg,date,i) => {
                 </div>
                 <div className="book grid grid-cols-[50%_50%]">
                     <div className="flex whitespace-nowrap">
-                        <div className="w-[70%] text-center p-[10px] bgl text-white font-medium"><a class="!text-white" href='/home'>Book now</a></div>
+                        <div className="w-[70%] text-center p-[10px] bgl text-white font-medium"><a className="!text-white" href='/home'>Book now</a></div>
                     </div>
                     <div className="flex justify-end items-center text-xl text-(--bg-h) space-x-2">
                         {<Clock/>}
