@@ -15,8 +15,11 @@ const card = (type,title,desc,reg,date,i) => {
                         <div className="desc sm:text-[75%] text-[10px] opacity-70 text-black">{desc}</div>
                     </div>
                 </div>
-                <div className="flex w-full h-fit text-center text-2xl justify-center font-black text-[#6C63FF] opacity-70">
-                    <span>{reg}+ Registrations</span>
+                <div className="flex w-full h-fit text-center text-2xl justify-center text-[#6C63FF] opacity-70 space-x-8">
+                    <div className="flex space-x-10 w-fit">
+                        <span className='font-black'>{reg}</span>
+                        <span className='font-medium'>+ Registrations</span>
+                    </div> 
                 </div>
                 <div className="book grid grid-cols-[50%_50%]">
                     <div className="flex whitespace-nowrap">
