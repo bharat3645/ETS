@@ -9,20 +9,20 @@ const card = (type,title,desc,reg,date,i) => {
         <div key={uuidv4()} className="flex flex-col h-fit w-full  p-2     bg-white rounded-2xl origin-center " id={"card" + i}>
             <div className="flex flex-col w-full h-full  space-y-10" >
                 <div className="flex flex-col w-full h-fit space-y-5">
-                    <div className="type text-(--bg-h) capitalize text-2xl">{type}</div>
+                    <div className="type text-[#6C63FF] capitalize text-2xl">{type}</div>
                     <div className="flex flex-col w-full h-fit space-y-4">
                         <div className="title sm:text-4xl text-xl font-bold text-black">{title}</div>
                         <div className="desc sm:text-[75%] text-[10px] opacity-70 text-black">{desc}</div>
                     </div>
                 </div>
-                <div className="flex w-full h-fit text-center text-2xl justify-center font-extrabold text-(--bg-h) opacity-70">
+                <div className="flex w-full h-fit text-center text-2xl justify-center font-extrabold text-[#6C63FF] opacity-70">
                     <span>{reg}+ Registrations</span>
                 </div>
                 <div className="book grid grid-cols-[50%_50%]">
                     <div className="flex whitespace-nowrap">
                         <div className="w-[70%] text-center p-[10px] bgl text-white font-medium"><a className="!text-white" href='/home'>Book now</a></div>
                     </div>
-                    <div className="flex justify-end items-center text-xl text-(--bg-h) space-x-2">
+                    <div className="flex justify-end items-center text-xl text-[#6C63FF] space-x-2">
                         {<Clock/>}
                         <div className='h-fit'>{date}</div>
                     </div>
